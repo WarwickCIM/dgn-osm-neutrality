@@ -9,8 +9,8 @@
 <link>https://warwickcim.github.io/dgn-osm-neutrality/blog.html</link>
 <atom:link href="https://warwickcim.github.io/dgn-osm-neutrality/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap [OSM].</description>
-<generator>quarto-1.9.37</generator>
-<lastBuildDate>Mon, 01 Jun 2026 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Tue, 02 Jun 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
@@ -42,7 +42,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <category>code</category>
   <category>analysis</category>
   <guid>https://warwickcim.github.io/dgn-osm-neutrality/posts/post-with-code/</guid>
-  <pubDate>Mon, 01 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="https://warwickcim.github.io/dgn-osm-neutrality/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -64,7 +64,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
  ]]></description>
   <category>news</category>
   <guid>https://warwickcim.github.io/dgn-osm-neutrality/posts/welcome/</guid>
-  <pubDate>Fri, 29 May 2026 23:00:00 GMT</pubDate>
+  <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
