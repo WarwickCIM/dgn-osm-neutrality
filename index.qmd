@@ -1,13 +1,18 @@
 ---
-title: "quarto_blog"
-listing:
-  contents: posts
-  feed: true
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
+title: "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation"
 title-block-banner: true
+comments: false
+toc: false
+listing:
+  id: latest-posts
+  contents: posts
+  sort: "date desc"
+  type: grid
 ---
+
+> This project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap \[OSM\].
+
+## Latest blog posts
+
+::: {#latest-posts}
+:::
