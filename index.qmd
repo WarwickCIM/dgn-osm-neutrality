@@ -17,3 +17,7 @@ listing:
 
 ::: {#latest-posts}
 :::
+
+## Funding
+
+This project is funded by the [ESRC Digital Good Network](https://digitalgood.net/) through their Digital Good Research Fund 2024-25. ![](media/esrc_digital_good_network.png)
