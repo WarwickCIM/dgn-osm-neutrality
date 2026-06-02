@@ -2,22 +2,35 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "quarto_blog"
+  title: "Can Digital Goods be Neutral?"
+  description: "This project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap [OSM]."
+  site-url: https://warwickcim.github.io/dgn-osm-neutrality/
+  repo-url: https://github.com/WarwickCIM/dgn-osm-neutrality
+  repo-actions: [edit, issue]
   navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: bluesky
-        href: https://bsky.app/
+    #logo: media/logo.png
+    #title: false # Uncomment if adding a logo
+    left:
+      - href: index.qmd
+        text: Home
+      #- about.qmd
+      - blog.qmd
+    tools:
+      # - icon: github
+      #   menu:
+      #     - text: Organisation
+      #       url:  https://github.com/CriticAI-HE
+      #     - text: Report a Bug
+      #       url:  https://github.com/CriticAI-HE/CriticAI-HE.github.io/issues
+      - icon: rss
+        href: index.xml
+
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
+    toc: true
 
 editor: visual
-
