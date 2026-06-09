@@ -28,6 +28,13 @@
     "text": "Funding\nThis project is funded by the ESRC Digital Good Network through their Digital Good Research Fund 2024-25."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "List team members (including our RAs) and Funder information"
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
@@ -35,11 +42,81 @@
     "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 2, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "List team members (including our RAs) and Funder information"
+    "objectID": "slides/users_stats/index.html#previously",
+    "href": "slides/users_stats/index.html#previously",
+    "title": "Codesign session 3",
+    "section": "Previously",
+    "text": "Previously\nWe tried to map actors and projects in OSM. During the meeting we were pointed to interesting resources faced some challenges:\n\nScope: what kind of projects and actors do we want to include? We know they should be within OSM, but are they to be related to any underrepresented groups or just one category? (gender, ethnicity, sexual orientation…)\nPopulation mechanism: how and who can/should populate the dataset? How to ensure that information is exhaustive, up-to-date? How do we know if something is happening?"
+  },
+  {
+    "objectID": "slides/users_stats/index.html#osm-users",
+    "href": "slides/users_stats/index.html#osm-users",
+    "title": "Codesign session 3",
+    "section": "OSM users",
+    "text": "OSM users\nThere are a total of 10,533,418 OSM users1\nThere are 95 countries with less population!\n\n\n\n\n\ncountry\npopulation\n\n\n\n\nGreece\n10,482,487\n\n\nJordan\n10,428,241\n\n\nPortugal\n10,347,892\n\n\nAzerbaijan\n10,180,770\n\n\nUnited Arab Emirates\n9,890,400\n\n\n\n\n\nSource: https://planet.openstreetmap.org/statistics/data_stats.html"
+  },
+  {
+    "objectID": "slides/users_stats/index.html#but",
+    "href": "slides/users_stats/index.html#but",
+    "title": "Codesign session 3",
+    "section": "But…",
+    "text": "But…\nWe do not know anything about their demographics.\n\nWhere do they contribute from?\nWhich languages do they speak?\nWhat’s their ethnicity, gender, sexual orientation…?\n\n\n\n\n\n\n\nImportant\n\n\nThis information would inform about the world-views that are embedded on OSM community and its map."
+  },
+  {
+    "objectID": "slides/users_stats/index.html#others-have-requested-this",
+    "href": "slides/users_stats/index.html#others-have-requested-this",
+    "title": "Codesign session 3",
+    "section": "Others have requested this",
+    "text": "Others have requested this\n\n\n\n\n\nThis post from March 2023, introducing a survey on Women participation in OSM originated a heated and long discussion.: https://community.openstreetmap.org/t/survey-on-women-participation-in-openstreetmap-perspectives-of-all-genders/96949\n\n\n\n\n\n\nGeochicas’ survey (9 days ago)"
+  },
+  {
+    "objectID": "slides/users_stats/index.html#osm-wiki-as-a-proxy",
+    "href": "slides/users_stats/index.html#osm-wiki-as-a-proxy",
+    "title": "Codesign session 3",
+    "section": "OSM Wiki as a proxy",
+    "text": "OSM Wiki as a proxy\n\n\n\n\nAs the only information about a user is their username, there’s no census of OSM.\nWiki users may want to add details to their personal page to disclose some features about themselves.\nThese features can be as diverse as:\n\nSoftware used\nLocation\nLanguages spoken\n…"
+  },
+  {
+    "objectID": "slides/users_stats/index.html#users-by-location",
+    "href": "slides/users_stats/index.html#users-by-location",
+    "title": "Codesign session 3",
+    "section": "Users by location",
+    "text": "Users by location"
+  },
+  {
+    "objectID": "slides/users_stats/index.html#users-by-language",
+    "href": "slides/users_stats/index.html#users-by-language",
+    "title": "Codesign session 3",
+    "section": "Users by language",
+    "text": "Users by language"
+  },
+  {
+    "objectID": "slides/users_stats/index.html#users-by-gender",
+    "href": "slides/users_stats/index.html#users-by-gender",
+    "title": "Codesign session 3",
+    "section": "Users by gender",
+    "text": "Users by gender\n\n\n\n\n\n\n\nWarning\n\n\nOnly 23 users have this information!"
+  },
+  {
+    "objectID": "slides/users_stats/index.html#preliminary-results",
+    "href": "slides/users_stats/index.html#preliminary-results",
+    "title": "Codesign session 3",
+    "section": "(preliminary) Results",
+    "text": "(preliminary) Results\nOSM community1 has over-representation of hegemonic demographics:\n\nMore than 2/3 of users are from Europe, with a prominence of users from Germany and France.\nMore than half of the users speak English or German. The rest of the 50% is divided across multiple languages.\n\nThis is unsurprisingly, given that the vast majority of wiki pages (TODO: count them) are written in English. English is also the language used in tagging and the OSMF.\n\nLittle interest in acknowledging diversity:\n\nFew people (23) disclosed their gender\nNobody has disclosed ethnicity or sexual orientation using categories\n\n\nA subset of wiki users"
+  },
+  {
+    "objectID": "slides/users_stats/index.html#but-1",
+    "href": "slides/users_stats/index.html#but-1",
+    "title": "Codesign session 3",
+    "section": "But…",
+    "text": "But…\n\n\n\n\n\n\nResults are not statistically relevant/representative:\n\n\n\nAccording to the wiki, there are a total of 157,810 wiki users, this represents a tiny 1% of total OSM users ( 10,533,418 OSM users).\nNot all wiki users have added that information to their profiles\n\nOut of the wiki users, only a fraction have disclosed that information (eg. only 6,003 have information about their countries a 3.8% out of the 2%)\n\n\n\n\n\nExploring alternative approach:\n\nComplement it with surveys?\nDo not look at what users says about themselves, but focus on what users do.\n\nThis is what we will be exploring in our next codesign session!"
+  },
+  {
+    "objectID": "slides/users_stats/index.html#sources-of-info",
+    "href": "slides/users_stats/index.html#sources-of-info",
+    "title": "Codesign session 3",
+    "section": "Sources of info",
+    "text": "Sources of info\n\nThis wiki page provides stats about number of wiki users and relevant info: https://wiki.openstreetmap.org/wiki/Special:Statistics\nThis page contains all users by language: https://wiki.openstreetmap.org/wiki/Category:Users_by_language\nhttps://wiki.openstreetmap.org/wiki/Category:Users_by_country\nhttps://wiki.openstreetmap.org/wiki/Category:Europe"
   },
   {
     "objectID": "posts/post-with-code/index.html",
