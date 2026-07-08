@@ -1,0 +1,27 @@
+---
+title: "Maps, world-views and neutrality: squaring the circle?"
+description: "Our talk at Pint of Science Coventry 2025 on how maps shape the world — and whether OpenStreetMap can really be neutral."
+author:
+  - "Carlos Cámara-Menoyo"
+  - "Timothy Monteath"
+date: "2025-05-19"
+categories: [Talks]
+---
+
+On 19 May 2025, Carlos Cámara-Menoyo and Timothy Monteath presented our project at [Pint of Science Coventry 2025](https://pintofscience.co.uk/event/world-in-motion-understanding-the-dynamics-behind-maps-and-fluids), as part of the session *"World in motion: understanding the dynamics behind maps and fluids"* held at The Dirty Duck pub in Coventry.
+
+## About the talk
+
+Map-making is a serious business. There's a science devoted to it, and only highly specialised companies and organisations can endeavour to translate every feature on Earth into a feature on a map with the right size and location. But that's what makes maps reliable, too. So much so that, besides being part of our everyday lives, scientists use them to assess the effects of drought and deforestation, identify migration patterns or make predictions, amongst others.
+
+And yet, all maps are wrong. All of them make assumptions about how the world is or should be, and in so doing, maps have particular built-in world views and become political. They define what is included and what is not, what can and can't be done with them, and the stories that they convey. In other words: maps shape the world as much as they are shaped by it.
+
+In this talk, we explained how maps are made in order to understand how they have been used to exert power — and how they are still doing so. We then focused on OpenStreetMap, a collective effort to "map the world as it is", and how it is succeeding or failing to do so in an equitable way.
+
+## Slides
+
+```{=html}
+<iframe class="slide-deck" src="https://ccamara.github.io/pos-2025-neutrality-maps/" title="Slides: Maps, world-views and neutrality"></iframe>
+```
+
+[Open the slides in full screen](https://ccamara.github.io/pos-2025-neutrality-maps/)
