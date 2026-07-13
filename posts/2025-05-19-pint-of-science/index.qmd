@@ -6,6 +6,7 @@ author:
   - "Timothy Monteath"
 date: "2025-05-19"
 categories: [Talks]
+image: "featured.png"
 ---
 
 On 19 May 2025, Carlos Cámara-Menoyo and Timothy Monteath presented our project at [Pint of Science Coventry 2025](https://pintofscience.co.uk/event/world-in-motion-understanding-the-dynamics-behind-maps-and-fluids), as part of the session *"World in motion: understanding the dynamics behind maps and fluids"* held at The Dirty Duck pub in Coventry.

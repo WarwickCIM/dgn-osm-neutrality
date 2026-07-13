@@ -4,6 +4,7 @@ description: "Our talk at STS Italia 2025 in Milan, presenting the participatory
 author: "Carlos Cámara-Menoyo"
 date: "2025-06-11"
 categories: [Talks]
+image: "featured.jpeg"
 ---
 
 On 11 June 2025, Carlos Cámara-Menoyo presented our project at [STS Italia 2025](https://stsitalia.org/) in Milan. The talk presented the implementation of a participatory codesign process to surface how neutrality is operationalised in OpenStreetMap (OSM), as well as some preliminary results about how it is succeeding or failing to foster equity and inclusion.
