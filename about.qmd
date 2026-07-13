@@ -38,4 +38,4 @@ Prof. [**Sara (Meg) Davis**](https://warwick.ac.uk/fac/cross_fac/cim/people/megd
 
 This project has been funded by [ESRC Digital Good Research Fund 2024](https://digitalgood.net/research/?research-category=digital-good-research-fund&research_year=2024).
 
-![](images/ESRC Digital Good Network Logo.png)
+![](media/esrc_digital_good_network.png)
