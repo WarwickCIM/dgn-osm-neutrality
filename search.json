@@ -11,7 +11,7 @@
     "href": "index.html#latest-blog-posts",
     "title": "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation",
     "section": "Latest blog posts",
-    "text": "Latest blog posts\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 30, 2026\n\n\n\n\n\n\n\n\n\n\n\nCo-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly\n\n\nOur talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.\n\n\n\nCarlos Cámara-Menoyo\n\n\nJun 11, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Latest blog posts\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 30, 2026\n\n\n\n\n\n\n\n\n\n\n\nCo-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly\n\n\nOur talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.\n\n\n\nCarlos Cámara-Menoyo\n\n\nJun 11, 2025\n\n\n\n\n\n\n\n\n\n\n\nMaps, world-views and neutrality: squaring the circle?\n\n\nOur talk at Pint of Science Coventry 2025 on how maps shape the world — and whether OpenStreetMap can really be neutral.\n\n\n\nCarlos Cámara-Menoyo, Timothy Monteath\n\n\nMay 19, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#funding",
@@ -49,6 +49,13 @@
     "text": "Slides\nThe slides from the talk are available as a PDF."
   },
   {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -56,11 +63,25 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/2025-05-19-pint-of-science/index.html",
+    "href": "posts/2025-05-19-pint-of-science/index.html",
+    "title": "Maps, world-views and neutrality: squaring the circle?",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "On 19 May 2025, Carlos Cámara-Menoyo and Timothy Monteath presented our project at Pint of Science Coventry 2025, as part of the session “World in motion: understanding the dynamics behind maps and fluids” held at The Dirty Duck pub in Coventry."
+  },
+  {
+    "objectID": "posts/2025-05-19-pint-of-science/index.html#about-the-talk",
+    "href": "posts/2025-05-19-pint-of-science/index.html#about-the-talk",
+    "title": "Maps, world-views and neutrality: squaring the circle?",
+    "section": "About the talk",
+    "text": "About the talk\nMap-making is a serious business. There’s a science devoted to it, and only highly specialised companies and organisations can endeavour to translate every feature on Earth into a feature on a map with the right size and location. But that’s what makes maps reliable, too. So much so that, besides being part of our everyday lives, scientists use them to assess the effects of drought and deforestation, identify migration patterns or make predictions, amongst others.\nAnd yet, all maps are wrong. All of them make assumptions about how the world is or should be, and in so doing, maps have particular built-in world views and become political. They define what is included and what is not, what can and can’t be done with them, and the stories that they convey. In other words: maps shape the world as much as they are shaped by it.\nIn this talk, we explained how maps are made in order to understand how they have been used to exert power — and how they are still doing so. We then focused on OpenStreetMap, a collective effort to “map the world as it is”, and how it is succeeding or failing to do so in an equitable way."
+  },
+  {
+    "objectID": "posts/2025-05-19-pint-of-science/index.html#slides",
+    "href": "posts/2025-05-19-pint-of-science/index.html#slides",
+    "title": "Maps, world-views and neutrality: squaring the circle?",
+    "section": "Slides",
+    "text": "Slides\n\nOpen the slides in full screen"
   },
   {
     "objectID": "slides/users_stats/index.html#previously",
@@ -144,6 +165,6 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 2, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nCo-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly\n\n\n\nTalks\n\n\n\nOur talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.\n\n\n\n\n\nJun 11, 2025\n\n\nCarlos Cámara-Menoyo\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 2, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nCo-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly\n\n\n\nTalks\n\n\n\nOur talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.\n\n\n\n\n\nJun 11, 2025\n\n\nCarlos Cámara-Menoyo\n\n\n\n\n\n\n\n\n\n\n\n\nMaps, world-views and neutrality: squaring the circle?\n\n\n\nTalks\n\n\n\nOur talk at Pint of Science Coventry 2025 on how maps shape the world — and whether OpenStreetMap can really be neutral.\n\n\n\n\n\nMay 19, 2025\n\n\nCarlos Cámara-Menoyo, Timothy Monteath\n\n\n\n\n\nNo matching items"
   }
 ]

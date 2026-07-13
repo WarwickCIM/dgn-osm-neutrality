@@ -98,5 +98,36 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <guid>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-06-11-sts-italia/</guid>
   <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
 </item>
+<item>
+  <title>Maps, world-views and neutrality: squaring the circle?</title>
+  <dc:creator>Carlos Cámara-Menoyo</dc:creator>
+  <dc:creator>Timothy Monteath</dc:creator>
+  <link>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-05-19-pint-of-science/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On 19 May 2025, Carlos Cámara-Menoyo and Timothy Monteath presented our project at <a href="https://pintofscience.co.uk/event/world-in-motion-understanding-the-dynamics-behind-maps-and-fluids">Pint of Science Coventry 2025</a>, as part of the session <em>“World in motion: understanding the dynamics behind maps and fluids”</em> held at The Dirty Duck pub in Coventry.</p>
+<section id="about-the-talk" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-talk">About the talk</h2>
+<p>Map-making is a serious business. There’s a science devoted to it, and only highly specialised companies and organisations can endeavour to translate every feature on Earth into a feature on a map with the right size and location. But that’s what makes maps reliable, too. So much so that, besides being part of our everyday lives, scientists use them to assess the effects of drought and deforestation, identify migration patterns or make predictions, amongst others.</p>
+<p>And yet, all maps are wrong. All of them make assumptions about how the world is or should be, and in so doing, maps have particular built-in world views and become political. They define what is included and what is not, what can and can’t be done with them, and the stories that they convey. In other words: maps shape the world as much as they are shaped by it.</p>
+<p>In this talk, we explained how maps are made in order to understand how they have been used to exert power — and how they are still doing so. We then focused on OpenStreetMap, a collective effort to “map the world as it is”, and how it is succeeding or failing to do so in an equitable way.</p>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe class="slide-deck" src="https://ccamara.github.io/pos-2025-neutrality-maps/" title="Slides: Maps, world-views and neutrality"></iframe>
+<p><a href="https://ccamara.github.io/pos-2025-neutrality-maps/">Open the slides in full screen</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Talks</category>
+  <guid>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-05-19-pint-of-science/</guid>
+  <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
