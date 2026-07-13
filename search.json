@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation",
@@ -18,7 +11,7 @@
     "href": "index.html#latest-blog-posts",
     "title": "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation",
     "section": "Latest blog posts",
-    "text": "Latest blog posts\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 30, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Latest blog posts\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 30, 2026\n\n\n\n\n\n\n\n\n\n\n\nCo-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly\n\n\nOur talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.\n\n\n\nCarlos Cámara-Menoyo\n\n\nJun 11, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#funding",
@@ -35,11 +28,39 @@
     "text": "List team members (including our RAs) and Funder information"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "posts/2025-06-11-sts-italia/index.html",
+    "href": "posts/2025-06-11-sts-italia/index.html",
+    "title": "Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 2, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "On 11 June 2025, Carlos Cámara-Menoyo presented our project at STS Italia 2025 in Milan. The talk presented the implementation of a participatory codesign process to surface how neutrality is operationalised in OpenStreetMap (OSM), as well as some preliminary results about how it is succeeding or failing to foster equity and inclusion."
+  },
+  {
+    "objectID": "posts/2025-06-11-sts-italia/index.html#about-the-talk",
+    "href": "posts/2025-06-11-sts-italia/index.html#about-the-talk",
+    "title": "Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly",
+    "section": "About the talk",
+    "text": "About the talk\nOSM is the largest and most successful collaborative map of the world. Like Wikipedia, it is based on principles of participation, openness, and neutrality to “map the world as it exists”. To that end, more than 10 million volunteers from different geographies and backgrounds contribute their local knowledge to add new map features or improve existing ones. Its data, covering the entire globe, is so exhaustive and precise that it complements official data sources and populates thousands of tools and popular services. Moreover, the UN-backed Digital Public Good Alliance recognised OSM as a global Digital Public Good in February 2024.\nEnquiring about the world-views embedded in such a crucial project, and its mechanisms to avoid inequities against vulnerable communities, is critical to understanding the values that it produces and reproduces. This is especially relevant in the case of OSM for two reasons. First, because maps shape reality as much as they are shaped by it — for example by influencing the perception of the world, exerting political power and control, or affecting mobility, accessibility and consumption patterns. Second, because OSM’s community is estimated to be highly biased towards specific and hegemonic demographics, where white men from Europe and the US are overrepresented.\nOur interdisciplinary research draws from critical geography and feminism to investigate how neutrality can be applied to either support or hinder equity. To achieve this, we are teaming up with Geochicas, a community-led organization from Latin America whose mission is to close the gender gap in the OSM community. Together, we are implementing a transformative participatory process aimed at co-designing data visualizations.\nFor us, data visualizations are not just an output to communicate findings, but a research method used to mediate and provoke ideas, discussions, and reactions that arise from thinking with and about data and its representation. Conversely, we understand participation and co-design as a way to consider the particularities of data, tasks, users, contexts of use and world-views of the participants — a condition for creating visualizations that are actually capable of being transformative.\nThe resulting visualizations will be different insofar as they will be based on lived experiences and informed by feminist principles. As a result, they will be better suited to assess how minoritized demographics — such as gender, ethnicity, and sexual orientation — are involved, recognized, or excluded in data production and decision-making within OSM, while also empowering our participants.\nWe expect our findings to be returned to OSM and to inform potential transformations in OSM’s governance, database, and representation guided by equity principles. More broadly, we expect the findings to be adapted to other cases of digital goods and initiate similar transformations."
+  },
+  {
+    "objectID": "posts/2025-06-11-sts-italia/index.html#slides",
+    "href": "posts/2025-06-11-sts-italia/index.html#slides",
+    "title": "Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly",
+    "section": "Slides",
+    "text": "Slides\nThe slides from the talk are available as a PDF."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "slides/users_stats/index.html#previously",
@@ -119,10 +140,10 @@
     "text": "Sources of info\n\nThis wiki page provides stats about number of wiki users and relevant info: https://wiki.openstreetmap.org/wiki/Special:Statistics\nThis page contains all users by language: https://wiki.openstreetmap.org/wiki/Category:Users_by_language\nhttps://wiki.openstreetmap.org/wiki/Category:Users_by_country\nhttps://wiki.openstreetmap.org/wiki/Category:Europe"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 2, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nCo-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly\n\n\n\nTalks\n\n\n\nOur talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.\n\n\n\n\n\nJun 11, 2025\n\n\nCarlos Cámara-Menoyo\n\n\n\n\n\nNo matching items"
   }
 ]

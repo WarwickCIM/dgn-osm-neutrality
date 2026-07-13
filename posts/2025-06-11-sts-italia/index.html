@@ -6,10 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Harlow Malloc">
-<meta name="dcterms.date" content="2026-06-02">
+<meta name="author" content="Carlos Cámara-Menoyo">
+<meta name="dcterms.date" content="2025-06-11">
+<meta name="description" content="Our talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.">
 
-<title>Post With Code – Can Digital Goods be Neutral?</title>
+<title>Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly – Can Digital Goods be Neutral?</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -24,41 +25,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -153,11 +119,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Post With Code</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">news</div>
-                <div class="quarto-category">code</div>
-                <div class="quarto-category">analysis</div>
+      <h1 class="title">Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly</h1>
+                  <div>
+        <div class="description">
+          Our talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Talks</div>
               </div>
                   </div>
   </div>
@@ -168,14 +137,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Harlow Malloc </p>
+               <p>Carlos Cámara-Menoyo </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">June 2, 2026</p>
+        <p class="date">June 11, 2025</p>
       </div>
     </div>
     
@@ -186,8 +155,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#about-the-talk" id="toc-about-the-talk" class="nav-link active" data-scroll-target="#about-the-talk">About the talk</a></li>
+  <li><a href="#slides" id="toc-slides" class="nav-link" data-scroll-target="#slides">Slides</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/WarwickCIM/dgn-osm-neutrality/edit/main/posts/2025-06-11-sts-italia/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/WarwickCIM/dgn-osm-neutrality/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -196,15 +172,22 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<p>On 11 June 2025, Carlos Cámara-Menoyo presented our project at <a href="https://stsitalia.org/">STS Italia 2025</a> in Milan. The talk presented the implementation of a participatory codesign process to surface how neutrality is operationalised in OpenStreetMap (OSM), as well as some preliminary results about how it is succeeding or failing to foster equity and inclusion.</p>
+<section id="about-the-talk" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-talk">About the talk</h2>
+<p>OSM is the largest and most successful collaborative map of the world. Like Wikipedia, it is based on principles of participation, openness, and neutrality to “map the world as it exists”. To that end, more than 10 million volunteers from different geographies and backgrounds contribute their local knowledge to add new map features or improve existing ones. Its data, covering the entire globe, is so exhaustive and precise that it complements official data sources and populates thousands of tools and popular services. Moreover, the UN-backed Digital Public Good Alliance recognised OSM as a global Digital Public Good in February 2024.</p>
+<p>Enquiring about the world-views embedded in such a crucial project, and its mechanisms to avoid inequities against vulnerable communities, is critical to understanding the values that it produces and reproduces. This is especially relevant in the case of OSM for two reasons. First, because maps shape reality as much as they are shaped by it — for example by influencing the perception of the world, exerting political power and control, or affecting mobility, accessibility and consumption patterns. Second, because OSM’s community is estimated to be highly biased towards specific and hegemonic demographics, where white men from Europe and the US are overrepresented.</p>
+<p>Our interdisciplinary research draws from critical geography and feminism to investigate how neutrality can be applied to either support or hinder equity. To achieve this, we are teaming up with <a href="https://geochicas.org/">Geochicas</a>, a community-led organization from Latin America whose mission is to close the gender gap in the OSM community. Together, we are implementing a transformative participatory process aimed at co-designing data visualizations.</p>
+<p>For us, data visualizations are not just an output to communicate findings, but a research method used to mediate and provoke ideas, discussions, and reactions that arise from thinking with and about data and its representation. Conversely, we understand participation and co-design as a way to consider the particularities of data, tasks, users, contexts of use and world-views of the participants — a condition for creating visualizations that are actually capable of being transformative.</p>
+<p>The resulting visualizations will be different insofar as they will be based on lived experiences and informed by feminist principles. As a result, they will be better suited to assess how minoritized demographics — such as gender, ethnicity, and sexual orientation — are involved, recognized, or excluded in data production and decision-making within OSM, while also empowering our participants.</p>
+<p>We expect our findings to be returned to OSM and to inform potential transformations in OSM’s governance, database, and representation guided by equity principles. More broadly, we expect the findings to be adapted to other cases of digital goods and initiate similar transformations.</p>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<p>The slides from the talk are available <a href="https://carloscamara.es/en/talk/2025-06-11-sts-italia/ccamara_2025-06-11_STS%20Italia.pdf">as a PDF</a>.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -612,4 +595,4 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/WarwickCIM/dgn-osm-neutrality/edit/main/posts/post-with-code/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/WarwickCIM/dgn-osm-neutrality/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/WarwickCIM/dgn-osm-neutrality/edit/main/posts/2025-06-11-sts-italia/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/WarwickCIM/dgn-osm-neutrality/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
