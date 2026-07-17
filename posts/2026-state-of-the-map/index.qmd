@@ -1,0 +1,21 @@
+---
+title: "We're presenting at State of the Map 2026: Whose Knowledge Counts?"
+description: "We will be at State of the Map 2026 in Paris to present our analysis of diversity and exclusion in OpenStreetMap's tagging proposals process."
+author: "Carlos Cámara-Menoyo"
+date: "2026-07-17"
+categories: [Talks, news]
+---
+
+We are delighted to announce that our project will be presented at [State of the Map 2026](https://2026.stateofthemap.org), the annual conference of the OpenStreetMap community, taking place in Paris, France, on 27–31 August 2026.
+
+Carlos Cámara-Menoyo will give the talk *"Whose Knowledge Counts? Analysing Diversity and Exclusion in OpenStreetMap's Tagging Proposals Process"* on 27 August 2026.
+
+## Abstract
+
+This talk analyses how gender inequality shapes OpenStreetMap's (OSM) tagging proposal process, revealing that diversity gaps intensify at higher participation levels. Maps are never neutral — their makers' demographics determine whose realities are represented or silenced.
+
+Systematically analysing every tagging proposal and vote since its creation using a purpose-built R package, we found that 59 prolific, mostly European and North American male users dominate proposal approval, while feminised proposals are underrepresented and disproportionately opposed. These findings confirm that structural inequities persist regardless of how well-designed, flexible and well-intended technologies may be.
+
+## Come and say hi
+
+If you are attending State of the Map 2026, come along to the talk — we would love to hear your thoughts and experiences on equity and participation in OSM. More details are available on the [conference website](https://2026.stateofthemap.org) and the [talk's page](https://ccamara.github.io/academic-cv/en/events/2026-state-of-the-map/).
