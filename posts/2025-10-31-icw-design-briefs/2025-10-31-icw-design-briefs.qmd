@@ -10,7 +10,7 @@ categories: [inclusive cartographies workshops, workshops, codesign]
 
 ![](icw-kcl-picture-1.jpg)
 
-Two workshops in the Inclusive Cartography Series were run in October with a focus on creating design briefs. The first, co-organised with the LivingMaps network, was held at King's College London on Saturday 18 October, from 10:00-14:00. The second was run online via Microsoft Teams on Friday 24 October, from 10:00-12:00. See the bottom of this page for both sets of slides.
+Two workshops in the Inclusive Cartography Series were run in October with a focus on creating design briefs. The first, co-organised with the [LivingMaps network](https://www.livingmaps.org/), was held at King's College London on Saturday 18 October 2025, from 10:00-14:00. The second was run online via Microsoft Teams on Friday 24 October, from 10:00-12:00. See the bottom of this page for both sets of slides.
 
 ## LivingMaps Network
 
@@ -18,9 +18,11 @@ Two workshops in the Inclusive Cartography Series were run in October with a foc
 
 Thanks to Jina Lee, Mike Duggan and Barbara Brayshay from LivingMaps for discussing the aim and process of designing innovative, inclusive maps in our in-person workshop on 18 October. The slides from their talk are below:
 
-<object class="pdf" data="LivingMaps-Slides.pdf" width="100%" height="500">
 
-</object>
+```{=html}
+<embed src="LivingMaps-Slides.pdf" width="100%" height="500px" />
+
+```
 
 ## From Maps to Briefs
 

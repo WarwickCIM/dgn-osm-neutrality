@@ -28,6 +28,4 @@ We expect our findings to be returned to OSM and to inform potential transformat
 
 The slides from the talk are available [as a PDF](https://carloscamara.es/en/talk/2025-06-11-sts-italia/ccamara_2025-06-11_STS%20Italia.pdf).
 
-<object class="pdf" data="https://carloscamara.es/en/talk/2025-06-11-sts-italia/ccamara_2025-06-11_STS%20Italia.pdf" width="100%" height="500">
-
-</object>
+<object class="pdf" data="https://carloscamara.es/en/talk/2025-06-11-sts-italia/ccamara_2025-06-11_STS%20Italia.pdf" width="100%"     height="500"></object>
