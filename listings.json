@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2026-state-of-the-map/index.html",
       "/posts/2025-06-11-sts-italia/index.html",
       "/posts/2025-05-19-pint-of-science/index.html"
     ]
@@ -9,6 +10,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/2026-state-of-the-map/index.html",
       "/posts/2025-06-11-sts-italia/index.html",
       "/posts/2025-05-19-pint-of-science/index.html"
     ]

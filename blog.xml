@@ -10,7 +10,38 @@
 <atom:link href="https://warwickcim.github.io/dgn-osm-neutrality/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap [OSM].</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Wed, 11 Jun 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>We’re presenting at State of the Map 2026: Whose Knowledge Counts?</title>
+  <dc:creator>Carlos Cámara-Menoyo</dc:creator>
+  <link>https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-state-of-the-map/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are delighted to announce that our project will be presented at <a href="https://2026.stateofthemap.org">State of the Map 2026</a>, the annual conference of the OpenStreetMap community, taking place in Paris, France, on 27–31 August 2026.</p>
+<p>Carlos Cámara-Menoyo will give the talk <em>“Whose Knowledge Counts? Analysing Diversity and Exclusion in OpenStreetMap’s Tagging Proposals Process”</em> on 27 August 2026.</p>
+<p><img src="https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-state-of-the-map/sotm_logo.webp" class="img-fluid"></p>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>This talk analyses how gender inequality shapes OpenStreetMap’s (OSM) tagging proposal process, revealing that diversity gaps intensify at higher participation levels. Maps are never neutral — their makers’ demographics determine whose realities are represented or silenced.</p>
+<p>Systematically analysing every tagging proposal and vote since its creation using a purpose-built R package, we found that 59 prolific, mostly European and North American male users dominate proposal approval, while feminised proposals are underrepresented and disproportionately opposed. These findings confirm that structural inequities persist regardless of how well-designed, flexible and well-intended technologies may be.</p>
+</section>
+<section id="come-and-say-hi" class="level2">
+<h2 class="anchored" data-anchor-id="come-and-say-hi">Come and say hi</h2>
+<p>If you are attending State of the Map 2026, come along to the talk — we would love to hear your thoughts and experiences on equity and participation in OSM. More details are available on the <a href="https://2026.stateofthemap.org">conference website</a> and the <a href="https://2026.stateofthemap.org/sessions/FLYV3H/">talk’s page</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Talks</category>
+  <category>news</category>
+  <guid>https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-state-of-the-map/</guid>
+  <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly</title>
   <dc:creator>Carlos Cámara-Menoyo</dc:creator>
