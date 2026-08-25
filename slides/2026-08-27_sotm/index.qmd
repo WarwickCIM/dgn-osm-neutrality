@@ -22,6 +22,7 @@ format:
       # scrollable: true
       #self-contained: true
 bibliography: references.bib
+draft: true
 ---
 
 ```{r setup}
@@ -335,7 +336,7 @@ Feminised features' median of votes is the lowest: in line with prior research f
 :::
 :::::
 
-# Conclusions {.smaller }
+# Conclusions {.smaller}
 
 - **Niche and privileged** contribution type:
 
@@ -360,7 +361,7 @@ Feminised features' median of votes is the lowest: in line with prior research f
 
 Enough of me, now it's your turn!
 
-# For discussion {.smaller }
+# For discussion {.smaller}
 
 :::::: columns
 :::: {.column width="50%"}
@@ -385,7 +386,6 @@ Please, allow people from under-represented demographics to open the discussions
 ::::::
 
 ![Screenshot of wiki's template "Users against tag voting" to show objection for the voting proposal process.](media/no_tagging_proposals.png)
-
 
 # References {.smaller}
 
