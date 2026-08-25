@@ -22,7 +22,6 @@ format:
       # scrollable: true
       #self-contained: true
 bibliography: references.bib
-draft: true
 ---
 
 ```{r setup}
