@@ -9,7 +9,7 @@
 <link>https://warwickcim.github.io/dgn-osm-neutrality/blog.html</link>
 <atom:link href="https://warwickcim.github.io/dgn-osm-neutrality/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap [OSM].</description>
-<generator>quarto-1.9.38</generator>
+<generator>quarto-1.10.18</generator>
 <lastBuildDate>Fri, 17 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>We’re presenting at State of the Map 2026: Whose Knowledge Counts?</title>
