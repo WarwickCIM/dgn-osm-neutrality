@@ -102,7 +102,7 @@
     "href": "slides/2026-08-27_sotm/index.html#about-me",
     "title": "Whose Knowledge Counts?",
     "section": "About me",
-    "text": "About me\nDr. Carlos Cámara-Menoyo\nPrincipal Research Software Engineer,\nCentre for Interdisciplinary Methodologies, University of Warwick (UK)\ncarlos.camara@warwick.ac.uk | Fedi: @ccamara@scholar.social\nIn OSM:\nI’m ccamara,OSM contributor since 2011\nFrom very active to almost inactive. Mostly tagging accessibility, buildings\nLed mapping parties and Humanitarian OSM with Collaborative Mapping and some import initiatives with OSM’s Spanish and Catalan local chapters.\n\nPositionality, too:\nI happen to be a white, heterosexual, cis male who works for a university in the global north."
+    "text": "About me\nDr. Carlos Cámara-Menoyo\nPrincipal Research Software Engineer,\nCentre for Interdisciplinary Methodologies, University of Warwick (UK)\ncarlos.camara@warwick.ac.uk | Fedi: @ccamara@scholar.social\nAt OSM:\nI’m ccamara, OSM contributor since 2011\nFrom very active to almost inactive. Mostly tagging accessibility, buildings\nLed mapping parties and Humanitarian OSM with Collaborative Mapping and some import initiatives with OSM’s Spanish and Catalan local chapters.\n\nPositionality, too:\nI happen to be a white, heterosexual, cis male who works for a university in the global north."
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#the-problem",
@@ -130,7 +130,7 @@
     "href": "slides/2026-08-27_sotm/index.html#still-a-lot-to-do",
     "title": "Whose Knowledge Counts?",
     "section": "Still a lot to do",
-    "text": "Still a lot to do\nThe lack of diversity in the community is still a concern, as flagged by:\n\nCommunity members:\n\nGender survey (Geochicas 2020): Men 58%, Women, 39%; Other: 19%\nWiki self report: Male: 12, Female 11\n\nScholarly publications:\n\n(Gardner et al. 2020): summary of what she found\n(Stephens 2013)\n(Das et al. 2019)"
+    "text": "Still a lot to do\nThe lack of diversity in the community is still a concern, as flagged by:\n\nCommunity members:\n\nGender survey (Geochicas 2020): Men 58%, Women, 39%; Other: 19%\nOSMF’s Diversity and Inclusion Special Committee (on hold)\nRecurrent messages at discourse and mailing list\n\nScholarly publications:\n\n(Gardner et al. 2020): summary of what she found\n(Stephens 2013)\n(Das et al. 2019)"
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#the-gap",
@@ -140,11 +140,11 @@
     "text": "The Gap\nPrevious research on OSM Contributions focuses on map contributions (i.e. changesets) only, a particular type of contributing.\nWe will be embracing pluralism by focusing on tagging proposals:\n\nDifferent type of contribution\n\nmay yield different results (e.g. may be favoured by different type of contributors)\nHalfway between map contributions and project’s governance: defines OSM’s ontology\n\nReinforces the idea that all forms of contributing to OSM are equally important (in line with data feminism principles (d’Ignazio and Klein 2020))"
   },
   {
-    "objectID": "slides/2026-08-27_sotm/index.html#the-osmproposals-r-package",
-    "href": "slides/2026-08-27_sotm/index.html#the-osmproposals-r-package",
+    "objectID": "slides/2026-08-27_sotm/index.html#data",
+    "href": "slides/2026-08-27_sotm/index.html#data",
     "title": "Whose Knowledge Counts?",
-    "section": "The {OSMpRoposals} R-package",
-    "text": "The {OSMpRoposals} R-package\n\n\nProvides two reproducible, citable, documented and ready to use (offline) datasets/dataframes:\n\nproposals: a dataframe of every tagging proposal, consisting of 2,115 rows and 30 columns.\nvotes: a dataframe of every vote cast, consisting of 8,511` rows and 5 columns.\n\nMethods: Data Gathering and cleaning:\n\nData Gathering: API Query (MediaWiki) +\nWeb scrapping\nData cleaning: filtering right types of content, values extraction, formatting…\n\nDocumentation\n\nDatasets’ metadata\nFunctions\nUsage and download (WIP)\nDOI and how to cite\n\n\n\n\n\n\n\n\n\nThe package (Cámara-Menoyo 2026) is in early stages of development. Contributions are welcome! (especially to improve efficiency/speed and testing)\nTodo:\n\nTesting\nIncorporate download link to datasets (no need to install anything)"
+    "section": "Data",
+    "text": "Data\n\n\nVia {OSMpRoposals} R-package: Provides two reproducible, citable, documented and ready to use (offline) datasets/dataframes:\n\nproposals: a dataframe of every tagging proposal, consisting of 2,115 rows and 30 columns.\nvotes: a dataframe of every vote cast, consisting of 8,511` rows and 5 columns.\n\nMethods: Data Gathering and cleaning:\n\nData Gathering: API Query (MediaWiki) +\nWeb scrapping\nData cleaning: filtering right types of content, values extraction, formatting…\n\nDocumentation\n\nDatasets’ metadata\nFunctions\nUsage and download (WIP)\nDOI and how to cite\n\n\n\n\n\n\n\n\n\nThe package (Cámara-Menoyo 2026) is in early stages of development. Contributions are welcome! (especially to improve efficiency/speed and testing)\nTodo:\n\nTesting\nIncorporate download link to datasets (no need to install anything)"
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#features-classification",
