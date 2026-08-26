@@ -39,8 +39,8 @@ Principal Research Software Engineer,**\
 Centre for Interdisciplinary Methodologies, University of Warwick (UK)\
 [carlos.camara\@warwick.ac.uk](#) \| Fedi: [\@ccamara\@scholar.social](https://scholar.social/@ccamara)
 
-**In OSM:**\
-I'm `ccamara,`OSM contributor since 2011\
+**At OSM:**\
+I'm `ccamara`, OSM contributor since 2011\
 From very active to almost inactive. Mostly tagging accessibility, buildings\
 Led mapping parties and Humanitarian OSM with [Collaborative Mapping](https://mapcolabora.org) and some import initiatives with OSM's [Spanish](https://openstreetmap.es/) and [Catalan](https://www.osmcatala.cat/) local chapters.
 
@@ -84,9 +84,9 @@ GEOCHICAS
 
 - Dr. Selene Yang
 
-- Alejandra Canclini
+- Silvia Rivera Alfaro
 
-- Silvia Alfaro
+- Alejandra Canclini
 :::
 
 ::: {.column width="30%"}
@@ -98,7 +98,7 @@ ADVISORY GROUP
 :::
 ::::::
 
-This project was funded by the ESRC Digital Good Network, through their Research Fund 2024-25.
+This project was **funded by the ESRC Digital Good Network**, through their Research Fund 2024-25.
 
 # Introduction {background-image="media/960px-Nova_totius_Terrarum_Orbis_geographica_ac_hydrographica_tabula_(Hendrik_Hondius)_balanced.jpg" background-opacity="0.6"}
 
@@ -133,7 +133,7 @@ The emergence of **neogeography** [@turner2006], **Volunteered Geographic Inform
 
 [^1]: At least, technically
 
-##  {background-image="https://images.gutefrage.net/media/fragen/bilder/moechten-sie-im-teletubbieland-entspannen/0_big.jpg" background-opacity="0.2" background-color="black" data-menu="Yes, but..."}
+##  {background-image="https://images.gutefrage.net/media/fragen/bilder/moechten-sie-im-teletubbieland-entspannen/0_big.jpg" background-opacity="0.4" background-color="black" data-menu="Yes, but..."}
 
 ::: r-fit-text
 Yes, but...
@@ -145,7 +145,8 @@ The **lack of diversity in the community is still a concern**, as flagged by:
 
 - Community members:
   - Gender survey [@geochicas2020]: Men 58%, Women, 39%; Other: 19%
-  - Wiki self report: Male: 12, Female 11
+  - OSMF's Diversity and Inclusion Special Committee (on hold)
+  - Recurrent messages at discourse and mailing list
 - Scholarly publications:
   - [@gardner2020]: summary of what she found
   - [@stephens2013]
@@ -186,11 +187,11 @@ We will be [embracing pluralism by **focusing on tagging proposals**]{.highlight
 
 # Methods {background-color="#BBDF46"}
 
-## The `{OSMpRoposals}` R-package {.smaller}
+## Data  {.smaller}
 
 :::::: columns
 ::: {.column width="50%"}
-#### **Provides two reproducible, citable, documented and ready to use (offline)** datasets/dataframes**:**
+#### **Via** {OSMpRoposals} R-package:  **Provides two reproducible, citable, documented and ready to use (offline)** datasets/dataframes**:**
 
 1.  `proposals`: a dataframe of every tagging proposal, consisting of `r format(nrow(proposals), big.mark=",")` rows and `r ncol(proposals)` columns.
 2.  `votes`: a dataframe of every vote cast, consisting of `r format(nrow(proposals_votes), big.mark=",")`\` rows and `r ncol(proposals_votes)` columns.
@@ -344,7 +345,7 @@ Feminised features' median of votes is the lowest: in line with prior research f
   - Only attractive users with time, proficient in English, and willingness to exposure and criticism. This maps well to white, heterosexual, cis, men from English-speaking countries.
 
 ::: fragment
-- Reduced number of feminised tagging proposals + reduced votes + higher % reaching threshold= **lack of interest** in these contributions. But...
+- Reduced number of feminised tagging proposals + reduced votes + higher % failing to meet threshold= **lack of interest** in these contributions. But...
 
   - No signs of systematic, targeted discrimination related to gender's perception
   - Lower anbandonment rates mean that these proposals matter a lot to a subset of users
