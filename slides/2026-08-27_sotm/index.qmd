@@ -363,8 +363,8 @@ Enough of me, now it's your turn!
 
 # For discussion {.smaller}
 
-:::::: columns
-:::: {.column width="50%"}
+::::: columns
+::: {.column width="50%"}
 - **What stories and realities are not captured** (methodology –data, classification- , analyses...)
 
   - Eg. why 68 users have stated that they don't want to engage at all with this?
@@ -374,18 +374,18 @@ Enough of me, now it's your turn!
   - Eg. Is an "Edit" button everything we need to make this process equitable?
 
 - **Echo or challenge** findings + Questions and clarifications
-
-::: {.callout-important appearance="simple"}
-Please, allow people from under-represented demographics to open the discussions.
 :::
-::::
 
 ::: {.column width="50%"}
 ![Beyond techno-centric approaches: A controversial message from 2017.](media/Talk-us-Open-survey-on-participation-biases-in-OSM.png){fig-align="right"}
 :::
-::::::
+:::::
 
 ![Screenshot of wiki's template "Users against tag voting" to show objection for the voting proposal process.](media/no_tagging_proposals.png)
+
+::: {.callout-important appearance="simple"}
+Please, allow people from under-represented demographics to open the discussions.
+:::
 
 # References {.smaller}
 
