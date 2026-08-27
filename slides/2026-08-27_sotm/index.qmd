@@ -148,7 +148,7 @@ The **lack of diversity in the community is still a concern**, as flagged by:
   - OSMF's Diversity and Inclusion Special Committee (on hold)
   - Recurrent messages at discourse and mailing list
 - Scholarly publications:
-  - [@gardner2020]: summary of what she found
+  - [@gardner2020]
   - [@stephens2013]
   - [@das2019]
 
@@ -187,11 +187,11 @@ We will be [embracing pluralism by **focusing on tagging proposals**]{.highlight
 
 # Methods {background-color="#BBDF46"}
 
-## Data  {.smaller}
+## Data {.smaller}
 
 :::::: columns
 ::: {.column width="50%"}
-#### **Via** {OSMpRoposals} R-package:  **Provides two reproducible, citable, documented and ready to use (offline)** datasets/dataframes**:**
+#### **Via** {OSMpRoposals} R-package: **Provides two reproducible, citable, documented and ready to use (offline)** datasets/dataframes**:**
 
 1.  `proposals`: a dataframe of every tagging proposal, consisting of `r format(nrow(proposals), big.mark=",")` rows and `r ncol(proposals)` columns.
 2.  `votes`: a dataframe of every vote cast, consisting of `r format(nrow(proposals_votes), big.mark=",")`\` rows and `r ncol(proposals_votes)` columns.
@@ -310,7 +310,7 @@ based on language:
 
 Based on gender performativity's perception:
 
-![](media/fig-classification-treemap.png)
+![](media/fig-classification-treemap.png){fig-align="center"}
 
 - **Feminised proposals are significantly less in number** than their counterparts (7%, vs 20% of masculinised)
 - Feminised proposals get **higher approval and rejection rates** than any other groups, and **lower inactive/abandonment rates**.
@@ -338,11 +338,13 @@ Feminised features' median of votes is the lowest: in line with prior research f
 
 # Conclusions {.smaller}
 
-- **Niche and privileged** contribution type:
+- **Niche, privileged** and **expert** contribution type:
 
   - Not many users are compelled to undertake a significant amount of work with low success ratio (20%) + elevated exposure. Even fewer ever repeat.
 
   - Only attractive users with time, proficient in English, and willingness to exposure and criticism. This maps well to white, heterosexual, cis, men from English-speaking countries.
+
+  - It requires a profound knowledge about how OSM operates
 
 ::: fragment
 - Reduced number of feminised tagging proposals + reduced votes + higher % failing to meet threshold= **lack of interest** in these contributions. But...
@@ -352,7 +354,7 @@ Feminised features' median of votes is the lowest: in line with prior research f
 :::
 
 ::: fragment
-- The combination of both suggests that **OSM reproduces hegemonic worldviews**.
+- The combination of both suggests that **OSM's proposals mechanism reproduces hegemonic worldviews** by design.
 
   - Lot of unexplored potential to make OSM more diverse: **It shapes the scope of the map (i.e. what others can or cannot map)**
 :::
