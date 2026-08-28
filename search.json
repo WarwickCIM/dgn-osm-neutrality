@@ -102,42 +102,42 @@
     "href": "slides/2026-08-27_sotm/index.html#about-me",
     "title": "Whose Knowledge Counts?",
     "section": "About me",
-    "text": "About me\nDr. Carlos Cámara-Menoyo\nPrincipal Research Software Engineer,\nCentre for Interdisciplinary Methodologies, University of Warwick (UK)\ncarlos.camara@warwick.ac.uk | Fedi: @ccamara@scholar.social\nAt OSM:\nI’m ccamara, OSM contributor since 2011\nFrom very active to almost inactive. Mostly tagging accessibility, buildings\nLed mapping parties and Humanitarian OSM with Collaborative Mapping and some import initiatives with OSM’s Spanish and Catalan local chapters.\n\nPositionality, too:\nI happen to be a white, heterosexual, cis male who works for a university in the global north."
+    "text": "About me\nDr. Carlos Cámara-Menoyo\nPrincipal Research Software Engineer,\nCentre for Interdisciplinary Methodologies, University of Warwick (UK)\ncarlos.camara@warwick.ac.uk | Fedi: @ccamara@scholar.social\nAt OSM:\nI’m ccamara, OSM contributor since 2011\nFrom very active to almost inactive. Mostly tagging accessibility, buildings\nLed mapping parties and Humanitarian OSM with Collaborative Mapping and some import initiatives with OSM’s Spanish and Catalan local chapters.\n\nHello, my name is Carlos Cámara and I work as a Principal RSE at the university of Warwick.\nI’ve been an OSM contributor since 2011, mostly interested in accessibility and buildings. While I’m not very active now, there have been periods where I’ve been very involved, particularly with Collaborative Mapping and OSM Spanish and Catalan communities.\nAnd I’m also a whitewhite, heterosexual, cis male who works for a university in the global north and researches on diversity. Yes, I’m aware of the irony."
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#the-problem",
     "href": "slides/2026-08-27_sotm/index.html#the-problem",
     "title": "Whose Knowledge Counts?",
     "section": "The problem",
-    "text": "The problem\n\nThere’s a long history of maps and power (Crampton 2009; Harley 2008; Wood 1992)\n\nMaps are never neutral: they have a political agenda (Haraway 1988; Harley 1989; Monmonier 2018)\nHistorically used for domination, control and/or surveillance (Foucault 1995; Scott 2020; Graham 2005; Edney 1999)\n\nCritical and Feminist Geography have critiqued map’s objectivity:\n\nFlagging (unconscious) bias by map-makers (usually men) (Monk and Hanson 1982)\nChallenging positivist approaches and based exclusively in quantification (Pickles 1995)\nImportance on what is being presented and silenced (Pavlovskaya 2009; Kwan 2002; d’Ignazio and Klein 2020)\nMore than representations: cultural expressions (Turnbull and Watson 1989)"
+    "text": "The problem\n\nHistorically, Maps and power have gone hand in hand.(Crampton 2009; Harley 2008; Wood 1992)\n\nMaps are never neutral: they have a political agenda (Haraway 1988; Harley 1989; Monmonier 2018)\nHistorically used for domination, control and/or surveillance (Foucault 1995; Scott 2020; Graham 2005; Edney 1999)\n\nCritical and Feminist Geography have critiqued map’s objectivity:\n\nFlagging (unconscious) bias by map-makers (usually men) (Monk and Hanson 1982)\nChallenging positivist approaches and based exclusively in quantification (Pickles 1995)\nImportance on what is being presented and silenced (Pavlovskaya 2009; Kwan 2002; d’Ignazio and Klein 2020)\nMore than representations: cultural expressions (Turnbull and Watson 1989)\n\n\n\nMaps have often been presented as scientific, precise and objective devices, however,…\nThere’s a corpus of literature stating that maps are never neutral, they have a political agenda and they have been used for domination control or surveillance."
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#the-opportunity",
     "href": "slides/2026-08-27_sotm/index.html#the-opportunity",
     "title": "Whose Knowledge Counts?",
     "section": "The opportunity",
-    "text": "The opportunity\nThe emergence of neogeography (Turner 2006), Volunteered Geographic Information (Goodchild 2007), and particularly, OSM as an opportunity to address those issues (Haklay et al. 2008):\n\nNo longer for/by elite: Anyone can create their own maps\n\nOSM goes further: anyone can add anything on the map, and decide how to describe it1\n\nOpportunity to include a myriad of different worldviews\n\nResulting maps could be more equitable and counter-power and resistance tools (Krupar 2015)\n\n\nAt least, technically"
+    "text": "The opportunity\nThe emergence of neogeography (Turner 2006), Volunteered Geographic Information (Goodchild 2007), and particularly, OSM as an opportunity to address those issues (Haklay et al. 2008):\n\nNo longer for/by elite: Anyone can create their own maps\n\nOSM goes further: anyone can add anything on the map, and decide how to describe it1\n\nOpportunity to include a myriad of different worldviews\n\nResulting maps could be more equitable and counter-power and resistance tools (Krupar 2015)\n\n\n\nHowever, the emergence of neogeograhy and VGI promised to change this toxic relationship. The fact that anyone can create their own maps meant two things:\n\nAt least, technically"
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#section",
     "href": "slides/2026-08-27_sotm/index.html#section",
     "title": "Whose Knowledge Counts?",
     "section": "",
-    "text": "Yes, but…"
+    "text": "Yes, but…\n\n\nAnd while this might be true, at least on paper… there’s still a lot to do"
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#still-a-lot-to-do",
     "href": "slides/2026-08-27_sotm/index.html#still-a-lot-to-do",
     "title": "Whose Knowledge Counts?",
     "section": "Still a lot to do",
-    "text": "Still a lot to do\nThe lack of diversity in the community is still a concern, as flagged by:\n\nCommunity members:\n\nGender survey (Geochicas 2020): Men 58%, Women, 39%; Other: 19%\nOSMF’s Diversity and Inclusion Special Committee (on hold)\nRecurrent messages at discourse and mailing list\n\nScholarly publications:\n\n(Gardner et al. 2020)\n(Stephens 2013)\n(Das et al. 2019)"
+    "text": "Still a lot to do\nThe lack of diversity in OSM’s community is still a concern, as flagged by:\n\nCommunity members:\n\nGender survey (Geochicas 2020): Men 58%, Women, 39%; Other: 19%\nOSMF’s Diversity and Inclusion Special Committee (on hold)\nRecurrent messages at discourse and mailing list\n\nScholarly publications:\n\n(Gardner et al. 2020)\n(Stephens 2013)\n(Das et al. 2019)\n\n\n\nAnd this is what this talk is about"
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#the-gap",
     "href": "slides/2026-08-27_sotm/index.html#the-gap",
     "title": "Whose Knowledge Counts?",
     "section": "The Gap",
-    "text": "The Gap\nPrevious research on OSM Contributions focuses on map contributions (i.e. changesets) only, a particular type of contributing.\nWe will be embracing pluralism by focusing on tagging proposals:\n\nDifferent type of contribution\n\nmay yield different results (e.g. may be favoured by different type of contributors)\nHalfway between map contributions and project’s governance: defines OSM’s ontology\n\nReinforces the idea that all forms of contributing to OSM are equally important (in line with data feminism principles (d’Ignazio and Klein 2020))"
+    "text": "The Gap\nPrevious research on OSM Contributions focuses on map contributions (i.e. changesets) only, a particular type of contributing.\nWe will be embracing pluralism by focusing on every tagging proposal being documented since 2006:\n\nDifferent type of contribution\n\nmay yield different results (e.g. may be favoured by different type of contributors)\nHalfway between map contributions and project’s governance: defines OSM’s ontology\n\nReinforces the idea that all forms of contributing to OSM are equally important (in line with data feminism principles (d’Ignazio and Klein 2020))"
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#data",
@@ -147,11 +147,11 @@
     "text": "Data\n\n\nVia {OSMpRoposals} R-package: Provides two reproducible, citable, documented and ready to use (offline) datasets/dataframes:\n\nproposals: a dataframe of every tagging proposal, consisting of 2,115 rows and 30 columns.\nvotes: a dataframe of every vote cast, consisting of 8,511` rows and 5 columns.\n\nMethods: Data Gathering and cleaning:\n\nData Gathering: API Query (MediaWiki) +\nWeb scrapping\nData cleaning: filtering right types of content, values extraction, formatting…\n\nDocumentation\n\nDatasets’ metadata\nFunctions\nUsage and download (WIP)\nDOI and how to cite\n\n\n\n\n\n\n\n\n\nThe package (Cámara-Menoyo 2026) is in early stages of development. Contributions are welcome! (especially to improve efficiency/speed and testing)\nTodo:\n\nTesting\nIncorporate download link to datasets (no need to install anything)"
   },
   {
-    "objectID": "slides/2026-08-27_sotm/index.html#features-classification",
-    "href": "slides/2026-08-27_sotm/index.html#features-classification",
+    "objectID": "slides/2026-08-27_sotm/index.html#proposals-classification",
+    "href": "slides/2026-08-27_sotm/index.html#proposals-classification",
     "title": "Whose Knowledge Counts?",
-    "section": "Features’ classification",
-    "text": "Features’ classification\nFeatures were automatically classified as perceived as “feminised,” “masculinised,” or “not gendered” (i.e., belonging to neither category) based on the presence of keywords in their titles and descriptions:\n\n\n\n\n\n\n\nFeminised features\nMasculinised features\n\n\n\n\n\nCare\nChildren\nWomen and feminine\nPrimary education\nPublic transport\n\n\nDriving, Motor and private means of transport (car, bike…)\nSports\nDefense and military\nSex and nightlife\n\n\n\n\n\n\n\n\n\n\n\nThis classification refers to how these features are usually perceived, without implying any judgement.\nA way to overcome the limitation of not having a census or other official ways to quantify demographics/diversity\nBased on prior scholarship examining the gendered dimensions of spaces and infrastructures (Das et al. 2019; Kern 2020; Leszczynski and Elwood 2015; Stephens 2013), and gender performativity theory (Butler 2011).\nAuthors are aware of theoretical limitations due to a binary approach + risks of reinforcing role genders that we do not endorse.\nHappy to discuss this.\n\n\n\n\n\ndrawing on prior scholarship examining the gendered dimensions of digital spaces and infrastructures [13,20,21], and gender performativity theory [22,22], we developed an automated classification procedure to categorise each tagging proposal as perceived as “feminised”, “masculinised”, or “not gendered” (i.e., belonging to neither category), based on the presence of specific keywords in the proposals’ title or associated tagging scheme."
+    "section": "Proposals’ classification",
+    "text": "Proposals’ classification\nProposals were automatically classified as perceived as “feminised,” ”masculinised,” or “not gendered” (i.e., belonging to neither category) based on the presence of keywords in their titles and descriptions:\n\n\n\n\n\n\n\nFeminised proposals\nMasculinised proposals\n\n\n\n\n\nCare\nChildren\nWomen and feminine\nPrimary education\nPublic transport\n\n\nDriving, Motor and private means of transport (car, bike…)\nSports\nDefense and military\nSex and nightlife\n\n\n\n\n\n\n\n\n\n\n\nThis classification refers to how these features are usually perceived, without implying any judgement.\nBased on prior scholarship examining the gendered dimensions of spaces and infrastructures (Das et al. 2019; Kern 2020; Leszczynski and Elwood 2015; Stephens 2013), and gender performativity theory (Butler 2011).\nAuthors are aware of theoretical limitations due to a binary approach + risks of reinforcing role genders that we do not endorse.\nA way to overcome the limitation of not having a census or other official ways to quantify demographics/diversity\nHappy to discuss this.\n\n\n\n\n\nAfter gathering all tagging proposals, we implemented an automated classification based on the presence of keywords to automatically classify them in three groups\nIt’s important to state that"
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#about-the-process",
@@ -172,14 +172,14 @@
     "href": "slides/2026-08-27_sotm/index.html#whats-being-proposed",
     "title": "Whose Knowledge Counts?",
     "section": "What’s being proposed",
-    "text": "What’s being proposed\n\nbased on language:\n\n99.1% are written in English. Other languages used are: Portuguese (3), Basque and French (2), CChichewa; Chewa; Nyanja, Chinese, Dutch; Flemish, Estonian, Galician, Italian, Malay, Norwegian, Russian (1)"
+    "text": "What’s being proposed\n\nbased on language:\n\n99.1% are written in English. Other languages used are: Portuguese (3), Basque and French (2), CChichewa; Chewa; Nyanja, Chinese, Dutch; Flemish, Estonian, Galician, Italian, Malay, Norwegian, Russian (1)\n\n\nNow, if we focus on what’s being proposed we can see the majority of proposals refer to amenities, man_made features, shops or highways."
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#section-1",
     "href": "slides/2026-08-27_sotm/index.html#section-1",
     "title": "Whose Knowledge Counts?",
     "section": "",
-    "text": "Based on gender performativity’s perception:\n\n\nFeminised proposals are significantly less in number than their counterparts (7%, vs 20% of masculinised)\nFeminised proposals get higher approval and rejection rates than any other groups, and lower inactive/abandonment rates.\n\nIf focusing on completion rates only: Feminised and masculinised have identical approval rates (69%), vs non-gendered: 74% Approval rate"
+    "text": "Based on gender performativity’s classification:\n\n\nFeminised proposals are significantly less in number than their counterparts (7%, vs 20% of masculinised)\nFeminised proposals get higher approval and rejection rates than any other groups, and lower inactive/abandonment rates.\n\nIf focusing on completion rates only: Feminised and masculinised have identical approval rates (69%), vs non-gendered: 74% Approval rate"
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#about-voting-patterns",
