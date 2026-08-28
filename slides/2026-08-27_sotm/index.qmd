@@ -45,16 +45,22 @@ From very active to almost inactive. Mostly tagging accessibility, buildings\
 Led mapping parties and Humanitarian OSM with [Collaborative Mapping](https://mapcolabora.org) and some import initiatives with OSM's [Spanish](https://openstreetmap.es/) and [Catalan](https://www.osmcatala.cat/) local chapters.
 
 ::: notes
-Positionality, too:
+Hello, my name is Carlos Cámara and I work as a Principal RSE at the university of Warwick.
 
-I happen to be a white, heterosexual, cis male who works for a university in the global north.
+I've been an OSM contributor since 2011, mostly interested in accessibility and buildings. While I'm not very active now, there have been periods where I've been very involved, particularly with Collaborative Mapping and OSM Spanish and Catalan communities.
+
+And I'm also a whitewhite, heterosexual, cis male who works for a university in the global north and researches on diversity. Yes, I'm aware of the irony.
 :::
 
 # Overview
 
-1.  Present an R-package (still under development) and showcase the methodological possibilities for research that it enables
-2.  Present some preliminary results in relation to EDI/DEI in OSM
-3.  Foster discussions towards making OSM more inclusive and equitable.
+1.  **Present an R-package** (still under development) and showcase the methodological possibilities for research that it enables
+2.  **Present some preliminary results** in relation to EDI/DEI in OSM
+3.  **Foster discussions** towards making OSM more inclusive and equitable.
+
+::: notes
+In this session I'm going to do
+:::
 
 # Our research {.smaller background-color="#BBDF46" background-image="../../media/esrc_digital_good_network.png" background-position="95% 5%" background-size="127px 128px"}
 
@@ -100,11 +106,15 @@ ADVISORY GROUP
 
 This project was **funded by the ESRC Digital Good Network**, through their Research Fund 2024-25.
 
+::: notes
+This is part of the research "Can Digital Goods be Neutral?" funded by the ESRC Digital Good network, where I had the pleasure to lead an amazing team of people, including researchers and members of Geochicas.
+:::
+
 # Introduction {background-image="media/960px-Nova_totius_Terrarum_Orbis_geographica_ac_hydrographica_tabula_(Hendrik_Hondius)_balanced.jpg" background-opacity="0.6"}
 
 ## The problem
 
-- There’s a long history of maps and power [@crampton2009; @harley2008; @wood1992]
+- Historically, **Maps and power have gone hand in hand**.[@crampton2009; @harley2008; @wood1992]
 
   - Maps are never neutral: they have a political agenda [@haraway1988; @harley1989; @monmonier2018]
   - Historically used for domination, control and/or surveillance [@foucault1995; @scott2020; @graham2005; @edney1999]
@@ -118,6 +128,12 @@ This project was **funded by the ESRC Digital Good Network**, through their Rese
   - Importance on what is being presented and silenced [@pavlovskaya2009; @kwan2002; @dignazio2020]
 
   - More than representations: cultural expressions [@turnbull1989]
+
+::: notes
+Maps have often been presented as scientific, precise and objective devices, however,...
+
+There's a corpus of literature stating that maps are never neutral, they have a political agenda and they have been used for domination control or surveillance.
+:::
 
 ## The opportunity
 
@@ -133,15 +149,23 @@ The emergence of **neogeography** [@turner2006], **Volunteered Geographic Inform
 
 [^1]: At least, technically
 
+::: notes
+However, the emergence of neogeograhy and VGI promised to change this toxic relationship. The fact that anyone can create their own maps meant two things:
+:::
+
 ##  {background-image="https://images.gutefrage.net/media/fragen/bilder/moechten-sie-im-teletubbieland-entspannen/0_big.jpg" background-opacity="0.4" background-color="black" data-menu="Yes, but..."}
 
 ::: r-fit-text
 Yes, but...
 :::
 
+::: notes
+And while this might be true, at least on paper... there's still a lot to do
+:::
+
 ## Still a lot to do {background-image="https://media.licdn.com/dms/image/v2/D4D12AQGwDx7KAQnqAA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1662951830856?e=2147483647&v=beta&t=5mFAMCKfDzQxHgVDPj4cQ91GjkD4j8xOd7DKYpsL0pM" background-opacity="0.4" background-color="black"}
 
-The **lack of diversity in the community is still a concern**, as flagged by:
+The **lack of diversity in OSM's community is still a concern**, as flagged by:
 
 - Community members:
   - Gender survey [@geochicas2020]: Men 58%, Women, 39%; Other: 19%
@@ -151,6 +175,10 @@ The **lack of diversity in the community is still a concern**, as flagged by:
   - [@gardner2020]
   - [@stephens2013]
   - [@das2019]
+
+::: notes
+And this is what this talk is about
+:::
 
 # Our talk (and upcoming paper) {.smaller}
 
@@ -165,8 +193,6 @@ Dialogues with prior scholarly on gendered uses of space and contributions to OS
 2.  Implement a reproducible, computational workflow that allows for replication in the future.
 
 3.  Foster discussions towards making OSM more inclusive and equitable.
-
-We do so by studying **every tagging proposal being documented since** `r lubridate::year(min(proposals$date_of_page_creation, na.rm = TRUE))`.
 :::
 
 ::: {.column width="50%"}
@@ -178,7 +204,7 @@ We do so by studying **every tagging proposal being documented since** `r lubrid
 
 Previous research on OSM Contributions focuses on **map contributions (i.e. changesets) only**, a particular type of contributing.
 
-We will be [embracing pluralism by **focusing on tagging proposals**]{.highlight-text}:
+We will be [embracing pluralism by ]{.highlight-text} **focusing on every tagging proposal being documented since** `r lubridate::year(min(proposals$date_of_page_creation, na.rm = TRUE))`:
 
 1.  Different type of contribution
     1.  may yield different results (e.g. may be favoured by different type of contributors)
@@ -226,12 +252,15 @@ Todo:
 ::::
 ::::::
 
-## Features' classification {.smaller .center}
+::: notes
+:::
 
-Features were automatically classified as perceived as "feminised," "masculinised," or "not gendered" (i.e., belonging to neither category) based on the presence of keywords in their titles and descriptions:
+## Proposals' classification {.smaller .center}
+
+Proposals were automatically classified as perceived as **"feminised,**" **"masculinised**," or **"not gendered"** (i.e., belonging to neither category) based on the presence of keywords in their titles and descriptions:
 
 +----------------------+----------------------------------------------------------------+
-| Feminised features   | Masculinised features                                          |
+| Feminised proposals  | Masculinised proposals                                         |
 +======================+================================================================+
 | - Care               | - Driving, Motor and private means of transport (car, bike...) |
 |                      |                                                                |
@@ -247,17 +276,21 @@ Features were automatically classified as perceived as "feminised," "masculinise
 ::: {.callout-warning appearance="simple"}
 - This classification refers to how these features are usually **perceived,** without implying any judgement.
 
-- A way to overcome the limitation of not having a census or other official ways to quantify demographics/diversity
-
 - Based on prior scholarship examining the gendered dimensions of spaces and infrastructures [@das2019; @kern2020; @leszczynski2015; @stephens2013], and gender performativity theory [@butler2011].
 
 - Authors are aware of theoretical limitations due to a binary approach + risks of reinforcing role genders that we do not endorse.
+
+- A way to overcome the limitation of not having a census or other official ways to quantify demographics/diversity
 
 - Happy to discuss this.
 :::
 
 ::: notes
-drawing on prior scholarship examining the gendered dimensions of digital spaces and infrastructures \[13,20,21\], and gender performativity theory \[22,22\], we developed an automated classification procedure to categorise each tagging proposal as perceived as “feminised”, “masculinised”, or “not gendered” (i.e., belonging to neither category), based on the presence of specific keywords in the proposals’ title or associated tagging scheme.
+After gathering all tagging proposals, we implemented an automated classification based on the presence of keywords to automatically classify them in three groups
+
+It's important to state that
+
+<!--# drawing on prior scholarship examining the gendered dimensions of digital spaces and infrastructures [13,20,21], and gender performativity theory [22,22], we developed an automated classification procedure to categorise each tagging proposal as perceived as “feminised”, “masculinised”, or “not gendered” (i.e., belonging to neither category), based on the presence of specific keywords in the proposals’ title or associated tagging scheme. -->
 :::
 
 # Results {background-image="https://clipart-library.com/images/6cy5qeGzi.jpg" background-opacity="0.8" background-color="black"}
@@ -306,9 +339,13 @@ based on language:
 
 - **99.1% are written in English.** Other languages used are: Portuguese (3), Basque and French (2), CChichewa; Chewa; Nyanja, Chinese, Dutch; Flemish, Estonian, Galician, Italian, Malay, Norwegian, Russian (1)
 
+::: notes
+Now, if we focus on what's being proposed we can see the majority of proposals refer to amenities, man_made features, shops or highways.
+:::
+
 ##  {.smaller}
 
-Based on gender performativity's perception:
+Based on gender performativity's classification:
 
 ![](media/fig-classification-treemap.png){fig-align="center"}
 
@@ -338,6 +375,10 @@ Feminised features' median of votes is the lowest: in line with prior research f
 
 # Conclusions {.smaller}
 
+::: notes
+So, moving to the conclusions. This is a niche...
+:::
+
 - **Niche, privileged** and **expert** contribution type:
 
   - Not many users are compelled to undertake a significant amount of work with low success ratio (20%) + elevated exposure. Even fewer ever repeat.
@@ -358,10 +399,6 @@ Feminised features' median of votes is the lowest: in line with prior research f
 
   - Lot of unexplored potential to make OSM more diverse: **It shapes the scope of the map (i.e. what others can or cannot map)**
 :::
-
-# Merci beaucoup! {background-color="#BBDF46"}
-
-Enough of me, now it's your turn!
 
 # For discussion {.smaller}
 
@@ -388,6 +425,8 @@ Enough of me, now it's your turn!
 ::: {.callout-important appearance="simple"}
 Please, allow people from under-represented demographics to open the discussions.
 :::
+
+# Merci beaucoup! {background-color="#BBDF46"}
 
 # References {.smaller}
 
