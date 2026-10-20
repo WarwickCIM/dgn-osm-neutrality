@@ -9,7 +9,7 @@
 <link>https://warwickcim.github.io/dgn-osm-neutrality/blog.html</link>
 <atom:link href="https://warwickcim.github.io/dgn-osm-neutrality/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap [OSM].</description>
-<generator>quarto-1.10.18</generator>
+<generator>quarto-1.10.19</generator>
 <lastBuildDate>Fri, 17 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>We’re presenting at State of the Map 2026: Whose Knowledge Counts?</title>
@@ -41,6 +41,142 @@
   <category>news</category>
   <guid>https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-state-of-the-map/</guid>
   <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Inclusive Cartographies Series: Design Briefs</title>
+  <dc:creator>Carlos Cámara-Menoyo</dc:creator>
+  <dc:creator>Timothy Monteath</dc:creator>
+  <dc:creator>Dana McCutcheon</dc:creator>
+  <link>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-10-31-icw-design-briefs/2025-10-31-icw-design-briefs.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-10-31-icw-design-briefs/icw-kcl-picture-1.jpg" class="img-fluid"></p>
+<p>Two workshops in the Inclusive Cartography Series were run in October with a focus on creating design briefs. The first, co-organised with the <a href="https://www.livingmaps.org/">LivingMaps network</a>, was held at King’s College London on Saturday 18 October 2025, from 10:00-14:00. The second was run online via Microsoft Teams on Friday 24 October, from 10:00-12:00. See the bottom of this page for both sets of slides.</p>
+<section id="livingmaps-network" class="level2">
+<h2 class="anchored" data-anchor-id="livingmaps-network">LivingMaps Network</h2>
+<p><img src="https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-10-31-icw-design-briefs/icw-kcl-picture-2.jpg" class="img-fluid"></p>
+<p>Thanks to Jina Lee, Mike Duggan and Barbara Brayshay from LivingMaps for discussing the aim and process of designing innovative, inclusive maps in our in-person workshop on 18 October. The slides from their talk are below:</p>
+<embed src="LivingMaps-Slides.pdf" width="100%" height="500px">
+
+</section>
+<section id="from-maps-to-briefs" class="level2">
+<h2 class="anchored" data-anchor-id="from-maps-to-briefs">From Maps to Briefs</h2>
+<p>Participants started by ‘reverse-engineering’ design briefs, looking at popular existing maps such as Google Maps or Apple Maps and noticing those maps’ features and what activities and populations they seemed designed (or <em>didn’t</em> seem designed) to serve.</p>
+<p><img src="https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-10-31-icw-design-briefs/icw-kcl-picture-3.jpg" class="img-fluid"></p>
+</section>
+<section id="creating-design-briefs" class="level2">
+<h2 class="anchored" data-anchor-id="creating-design-briefs">Creating Design Briefs</h2>
+<p>Next, the participants worked in groups to produce their own briefs. This included considering who the map would be for, and how that audience would use it. Further, it involved discussing design considerations such as the use of icons and colours, and outlining which features were worth and not worth including, based on the purpose. Groups also produced sketches to guide in the eventual cartography process.</p>
+<p>Two examples of briefs produced are below:</p>
+<object class="pdf" data="free-city-brief.pdf" width="100%" height="500">
+</object>
+<object class="pdf" data="safety-brief" width="100%" height="500">
+</object>
+</section>
+<section id="evaluations" class="level2">
+<h2 class="anchored" data-anchor-id="evaluations">Evaluations</h2>
+<p>At the end of the workshops, participants were asked to submit a survey on their reflections and experiences.</p>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<p>Workshop 18/10/25:</p>
+<object class="pdf" data="2025-10-18-cim-slides.pdf" width="100%" height="500">
+</object>
+<p>Workshop 24/10/25:</p>
+<object class="pdf" data="2025-10-24-slides.pdf" width="100%" height="500">
+</object>
+
+
+</section>
+
+ ]]></description>
+  <category>inclusive cartographies workshops</category>
+  <category>workshops</category>
+  <category>codesign</category>
+  <guid>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-10-31-icw-design-briefs/2025-10-31-icw-design-briefs.html</guid>
+  <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Inclusive Cartographies Series: Warwick</title>
+  <dc:creator>Carlos Cámara-Menoyo</dc:creator>
+  <dc:creator>Timothy Monteath</dc:creator>
+  <dc:creator>Dana McCutcheon</dc:creator>
+  <link>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/2025-07-04-icw-warwick.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/OSM-Workshop-Warwick.png" class="img-fluid"></p>
+<p>The first workshop of the Inclusive Cartographies Series was held at the University of Warwick on Friday 27 June, from 09:00-17:00.</p>
+<section id="introductions" class="level2">
+<h2 class="anchored" data-anchor-id="introductions">Introductions</h2>
+<p>The day started with introductions to the project and everyone involved: Carlos Cámara and Timothy Monteath from the University of Warwick; Selene Yang, Alejandra Canclini and Silvia Ribera-Alfaro from Geochicas, and of course the participants themselves, who kindly shared about what brought them to the workshop and their initial awareness of maps and their impacts for under-represented communities.</p>
+<p>Although anyone is welcome at this series of workshops, we particularly thought it would interest people from non-hegemonic demographics (women, racialized, LGTBQ+) who feel that current maps do not sufficiently address their needs; map and data visualisation enthusiasts, especially OpenStreetMap users; activists and researchers; and particularly, anyone with a keen interest in EDI issues and inequalities (we particularly welcome people interested in issues related to gender, race or queer topics).</p>
+</section>
+<section id="talks" class="level2">
+<h2 class="anchored" data-anchor-id="talks">Talks</h2>
+<p>The session started with a presentation on <strong>maps, gender and feminist mapping</strong>. Participants explored the features that stand out on popular existing maps (such as Google Maps, Bing Maps, Apple Maps or OpenStreetMap) and considered what kind of information was missing. There was some discussion of the ways men/boys use and perceive spaces differently to women/girls, and how failing to account for this means “public spaces become male spaces by default” (Caroline Criado Pérez in <em>Invisible Women,</em> 2019).<sup>1</sup></p>
+<p>Next, Carlos Cámara gave us an <strong>introduction to OSM</strong>:</p>
+<embed src="OSM-slides.pdf" width="100%" height="500px">
+
+<p>Following these initial talks, there was a discussion about <strong>cartography and inclusivity</strong>, using a set of ‘personas’ as a starting point. For instance, for the persona of Hans Moleman…</p>
+<p><img src="https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/Moleman-Persona.png" class="img-fluid"></p>
+<p>…the following template was produced.</p>
+<p><img src="https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/Moleman-Template.png" class="img-fluid"></p>
+<p>The personas provided were then used as a jumping-off point for participants ‘to adapt, copy, or ignore’. Each of them created a persona including name, personality, and cases in which the individual would want to use a map.</p>
+</section>
+<section id="topics-and-group-creation" class="level2">
+<h2 class="anchored" data-anchor-id="topics-and-group-creation">Topics and Group Creation</h2>
+<p>After a coffee break, participants were asked to think about what current maps might be missing, particularly with regard to facilitating activities that groups such as women, elderly people, children, LGBT+ people and racialised minorities need to do. Each participant stuck on the wall a project template with a proposed:</p>
+<ul>
+<li><p>Map title</p></li>
+<li><p>Problem for the map to address</p></li>
+<li><p>Audience</p></li>
+<li><p>Drawing</p></li>
+<li><p>Scale (e.g., city, region)</p></li>
+</ul>
+<p><img src="https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/Public-City-Sketch.png" class="img-fluid"></p>
+<p>The participants then formed groups by affinity, gathering by topics they wanted to work on and merging similar ideas. At least one spokesperson per group was nominated, along with one notetaker to document the map’s title, aim, audience, features to be represented, principles, further improvements and conclusions.</p>
+<p><img src="https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/Nomi-Bisma-Hans.png" class="img-fluid"></p>
+</section>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
+<p>Each group listed the data they wanted to visualise in their map and considered how they would want it to be represented. Then, they queried OSM data to see which features were and were not available. They also took notes on what was missing, what could be improved, and what could be used as a proxy from existing data.</p>
+</section>
+<section id="cartography" class="level2">
+<h2 class="anchored" data-anchor-id="cartography">Cartography</h2>
+<p>Following an hour’s lunch break, Tim Monteath gave a talk on how to use Maputnik, a tool for creating cartographies:</p>
+<embed src="Workshop-Maputnik.pdf" width="100%" height="500px">
+
+<p>Participants then used Maputnik to create cartographies and share their progress.</p>
+</section>
+<section id="evaluation" class="level2">
+<h2 class="anchored" data-anchor-id="evaluation">Evaluation</h2>
+<p>Finally, participants filled in a survey about the workshop. There was also a roundtable to discuss reflections and lessons learnt.</p>
+<p>It was found over the course of this workshop that there is a steep learning curve when it comes to cartographic tools. Further, Maputnik itself was found to be somewhat limited for our ends.</p>
+<p>As a result, we decided to split the next workshops between two dedicated to creating design briefs, and one focused on cartography. We also turned from Maputnik to QGIS as a replacement.</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>For more information, check out <a href="https://carolinecriadoperez.com/article/iw-228-default-male-gaze/">Caroline Criado Pérez’s blog post</a> about this.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>inclusive cartographies workshops</category>
+  <category>workshops</category>
+  <category>codesign</category>
+  <guid>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/2025-07-04-icw-warwick.html</guid>
+  <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly</title>

@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://warwickcim.github.io/dgn-osm-neutrality/blog.html</loc>
-    <lastmod>2026-08-28T22:16:15.727Z</lastmod>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/index.html</loc>
+    <lastmod>2026-10-20T08:04:50.994Z</lastmod>
   </url>
   <url>
     <loc>https://warwickcim.github.io/dgn-osm-neutrality/about.html</loc>
-    <lastmod>2026-08-28T22:16:15.727Z</lastmod>
+    <lastmod>2026-10-20T08:04:50.993Z</lastmod>
   </url>
   <url>
     <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-state-of-the-map/index.html</loc>
-    <lastmod>2026-08-28T22:16:15.730Z</lastmod>
-  </url>
-  <url>
-    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-05-19-pint-of-science/index.html</loc>
-    <lastmod>2026-08-28T22:16:15.729Z</lastmod>
+    <lastmod>2026-10-20T08:04:51.063Z</lastmod>
   </url>
   <url>
     <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-06-11-sts-italia/index.html</loc>
-    <lastmod>2026-08-28T22:16:15.730Z</lastmod>
+    <lastmod>2026-10-20T08:04:50.996Z</lastmod>
   </url>
   <url>
     <loc>https://warwickcim.github.io/dgn-osm-neutrality/slides/2026-08-27_sotm/index.html</loc>
-    <lastmod>2026-08-28T22:16:15.732Z</lastmod>
+    <lastmod>2026-10-20T08:04:51.065Z</lastmod>
   </url>
   <url>
-    <loc>https://warwickcim.github.io/dgn-osm-neutrality/index.html</loc>
-    <lastmod>2026-08-28T22:16:15.727Z</lastmod>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-10-31-icw-design-briefs/2025-10-31-icw-design-briefs.html</loc>
+    <lastmod>2026-10-20T08:04:51.054Z</lastmod>
+  </url>
+  <url>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/2025-07-04-icw-warwick.html</loc>
+    <lastmod>2026-10-20T08:04:50.996Z</lastmod>
+  </url>
+  <url>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-05-19-pint-of-science/index.html</loc>
+    <lastmod>2026-10-20T08:04:50.996Z</lastmod>
+  </url>
+  <url>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/blog.html</loc>
+    <lastmod>2026-10-20T08:04:50.993Z</lastmod>
   </url>
 </urlset>
