@@ -271,43 +271,7 @@ D’Ignazio, Catherine, and Rahul Bhargava. 2020. <em>Data Visualization Literac
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
 <p>The slides from the talk are available <a href="https://carloscamara.es/en/events/2025-06-11-sts-italia/ccamara_2025-06-11_STS%20Italia.pdf">as a PDF</a>.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode html code-with-copy"><code class="sourceCode html"><span id="cb1-1"><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">&lt;</span><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">object</span><span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;"> class</span><span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"pdf"</span><span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;"> data</span><span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"https://carloscamara.es/en/events/2025-06-11-sts-italia/ccamara_2025-06-11_STS%20Italia.pdf"</span><span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;"> width</span><span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"100%"</span><span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;"> height</span><span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"500"</span><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">&gt;&lt;/</span><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">object</span><span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">&gt;</span></span></code></pre></div></div>
+<object class="pdf" data="https://carloscamara.es/en/events/2025-06-11-sts-italia/ccamara_2025-06-11_STS%20Italia.pdf" width="100%" height="500"></object>
 
 
 </section>

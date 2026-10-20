@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation",
-    "section": "",
-    "text": "This project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap [OSM]."
-  },
-  {
-    "objectID": "index.html#latest-blog-posts",
-    "href": "index.html#latest-blog-posts",
-    "title": "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation",
-    "section": "Latest blog posts",
-    "text": "Latest blog posts\n\n\n\n\n\n\n\n\nWe’re presenting at State of the Map 2026: Whose Knowledge Counts?\n\n\nWe will be at State of the Map 2026 in Paris to present our analysis of diversity and exclusion in OpenStreetMap’s tagging proposals process.\n\n\n\nCarlos Cámara-Menoyo\n\n\nJul 17, 2026\n\n\n\n\n\n\n\n\n\n\n\nInclusive Cartographies Series: Design Briefs\n\n\n\n\n\n\nCarlos Cámara-Menoyo, Timothy Monteath, Dana McCutcheon\n\n\nOct 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nOSM Dashboard: Visualising group contributions to OSM\n\n\nThe goal of OSMdashboard is help to understand how different groups of users contribute to OpenStreetMap (OSM). It does so by creating interactive dashboards that surface…\n\n\n\nCarlos Cámara-Menoyo\n\n\nSep 24, 2025\n\n\n\n\n\n\n\n\n\n\n\nInclusive Cartographies Series: Warwick\n\n\n\n\n\n\nCarlos Cámara-Menoyo, Timothy Monteath, Dana McCutcheon\n\n\nJul 4, 2025\n\n\n\n\n\n\n\n\n\n\n\nCo-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly\n\n\nOur talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.\n\n\n\nCarlos Cámara-Menoyo\n\n\nJun 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaps, world-views and neutrality: squaring the circle?\n\n\nOur talk at Pint of Science Coventry 2025 on how maps shape the world — and whether OpenStreetMap can really be neutral.\n\n\n\nCarlos Cámara-Menoyo, Timothy Monteath\n\n\nMay 19, 2025\n\n\n\n\n\n\n\n\n\n\n\nCodesign meeting: Visualising tagging proposals\n\n\nPrototyping visualisations.\n\n\n\nCarlos Cámara\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCodesign meeting 3: Visualising OSM’s demographics\n\n\nOne of the first things that stood out during the codesign process with Geochicas was how important it would be to have demographic statistics about OSM’s userbase.\n\n\n\nCarlos Cámara\n\n\nFeb 24, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#funding",
-    "href": "index.html#funding",
-    "title": "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation",
-    "section": "Funding",
-    "text": "Funding\nThis project is funded by the ESRC Digital Good Network through their Digital Good Research Fund 2024-25."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -47,48 +26,6 @@
     "title": "About",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nThis project is not endorsed by or affiliated with the OpenStreetMap Foundation.↩︎"
-  },
-  {
-    "objectID": "posts/2025-04-10-tagging_proposals/index.html",
-    "href": "posts/2025-04-10-tagging_proposals/index.html",
-    "title": "Codesign meeting: Visualising tagging proposals",
-    "section": "",
-    "text": "In this meeting it was flagged how besides the most obvious form of contributing to OpenStreetMap by adding and editing map features, OSM offers a number of options, which include documenting on the wiki, discussing in the forum, writing blog posts, joining the OpenStreetMap Foundation… one of the features that has been understudied are tagging proposals.\nAfter a lot of time to get data that we could use, we created a prototype of a visualisation that brings insights about the process:"
-  },
-  {
-    "objectID": "posts/2025-05-19-pint-of-science/index.html",
-    "href": "posts/2025-05-19-pint-of-science/index.html",
-    "title": "Maps, world-views and neutrality: squaring the circle?",
-    "section": "",
-    "text": "On 19 May 2025, Carlos Cámara-Menoyo and Timothy Monteath presented our project at Pint of Science Coventry 2025, as part of the session “World in motion: understanding the dynamics behind maps and fluids” held at The Dirty Duck pub in Coventry."
-  },
-  {
-    "objectID": "posts/2025-05-19-pint-of-science/index.html#about-the-talk",
-    "href": "posts/2025-05-19-pint-of-science/index.html#about-the-talk",
-    "title": "Maps, world-views and neutrality: squaring the circle?",
-    "section": "About the talk",
-    "text": "About the talk\nMap-making is a serious business. There’s a science devoted to it, and only highly specialised companies and organisations can endeavour to translate every feature on Earth into a feature on a map with the right size and location. But that’s what makes maps reliable, too. So much so that, besides being part of our everyday lives, scientists use them to assess the effects of drought and deforestation, identify migration patterns or make predictions, amongst others.\nAnd yet, all maps are wrong. All of them make assumptions about how the world is or should be, and in so doing, maps have particular built-in world views and become political. They define what is included and what is not, what can and can’t be done with them, and the stories that they convey. In other words: maps shape the world as much as they are shaped by it.\nIn this talk, we explained how maps are made in order to understand how they have been used to exert power — and how they are still doing so. We then focused on OpenStreetMap, a collective effort to “map the world as it is”, and how it is succeeding or failing to do so in an equitable way."
-  },
-  {
-    "objectID": "posts/2025-05-19-pint-of-science/index.html#slides",
-    "href": "posts/2025-05-19-pint-of-science/index.html#slides",
-    "title": "Maps, world-views and neutrality: squaring the circle?",
-    "section": "Slides",
-    "text": "Slides\n\nOpen the slides in full screen"
-  },
-  {
-    "objectID": "posts/2025-02-24-user_stats/index.html",
-    "href": "posts/2025-02-24-user_stats/index.html",
-    "title": "Codesign meeting 3: Visualising OSM’s demographics",
-    "section": "",
-    "text": "In previous stages of the codesign process with Geochicas, we tried to map actors and projects in OSM. During the meeting we were pointed to interesting resources faced some challenges:\nIn this meeting we took a different path and focused on OSM’s demographics. This is not a straighforward task, as there are mutliple issues that need to be addressed:\nTo address that, we explored a computational approach consisting of automatically extracting all the structured data that users have self-reported about themselves.\nFindings reveal an enormous bias, albeit with some caveats due to lack of representativity of the data."
-  },
-  {
-    "objectID": "posts/2025-02-24-user_stats/index.html#slides",
-    "href": "posts/2025-02-24-user_stats/index.html#slides",
-    "title": "Codesign meeting 3: Visualising OSM’s demographics",
-    "section": "Slides",
-    "text": "Slides"
   },
   {
     "objectID": "posts/2025-10-31-icw-design-briefs/2025-10-31-icw-design-briefs.html",
@@ -131,6 +68,83 @@
     "title": "Inclusive Cartographies Series: Design Briefs",
     "section": "Slides",
     "text": "Slides\nWorkshop 18/10/25:\n\n\nWorkshop 24/10/25:"
+  },
+  {
+    "objectID": "posts/2025-06-11-sts-italia/index.html",
+    "href": "posts/2025-06-11-sts-italia/index.html",
+    "title": "Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly",
+    "section": "",
+    "text": "On 11 June 2025, Carlos Cámara-Menoyo presented our project at STS Italia 2025 in Milan. The talk presented the implementation of a participatory codesign process to surface how neutrality is operationalised in OpenStreetMap (OSM), as well as some preliminary results about how it is succeeding or failing to foster equity and inclusion."
+  },
+  {
+    "objectID": "posts/2025-06-11-sts-italia/index.html#about-the-talk",
+    "href": "posts/2025-06-11-sts-italia/index.html#about-the-talk",
+    "title": "Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly",
+    "section": "About the talk",
+    "text": "About the talk\nOSM is the largest and most successful collaborative map of the world. Like Wikipedia, it is based on principles of participation, openness, and neutrality to “map the world as it exists”. To that end, more than 10 million volunteers from different geographies and backgrounds contribute their local knowledge to add new map features or improve existing ones. Its data, covering the entire globe, is so exhaustive and precise that it complements official data sources and populates thousands of tools and popular services. Moreover, the UN-backed Digital Public Good Alliance recognised OSM as a global Digital Public Good in February 2024.\nEnquiring about the world-views embedded in such a crucial project, and its mechanisms to avoid inequities against vulnerable communities, is critical to understanding the values that it produces and reproduces. This is especially relevant in the case of OSM for two reasons. First, because maps shape reality as much as they are shaped by it — for example by influencing the perception of the world, exerting political power and control, or affecting mobility, accessibility and consumption patterns. Second, because OSM’s community is estimated to be highly biased towards specific and hegemonic demographics, where white men from Europe and the US are overrepresented.\nOur interdisciplinary research draws from critical geography and feminism to investigate how neutrality can be applied to either support or hinder equity. To achieve this, we are teaming up with Geochicas, a community-led organization from Latin America whose mission is to close the gender gap in the OSM community. Together, we are implementing a transformative participatory process aimed at co-designing data visualizations.\nFor us, data visualizations are not just an output to communicate findings, but a research method used to mediate and provoke ideas, discussions, and reactions that arise from thinking with and about data and its representation. Conversely, we understand participation and co-design as a way to consider the particularities of data, tasks, users, contexts of use and world-views of the participants — a condition for creating visualizations that are actually capable of being transformative.\nThe resulting visualizations will be different insofar as they will be based on lived experiences and informed by feminist principles. As a result, they will be better suited to assess how minoritized demographics — such as gender, ethnicity, and sexual orientation — are involved, recognized, or excluded in data production and decision-making within OSM, while also empowering our participants.\nWe expect our findings to be returned to OSM and to inform potential transformations in OSM’s governance, database, and representation guided by equity principles. More broadly, we expect the findings to be adapted to other cases of digital goods and initiate similar transformations."
+  },
+  {
+    "objectID": "posts/2025-06-11-sts-italia/index.html#slides",
+    "href": "posts/2025-06-11-sts-italia/index.html#slides",
+    "title": "Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly",
+    "section": "Slides",
+    "text": "Slides\nThe slides from the talk are available as a PDF."
+  },
+  {
+    "objectID": "posts/2025-04-10-tagging_proposals/index.html",
+    "href": "posts/2025-04-10-tagging_proposals/index.html",
+    "title": "Codesign meeting: Visualising tagging proposals",
+    "section": "",
+    "text": "In this meeting it was flagged how besides the most obvious form of contributing to OpenStreetMap by adding and editing map features, OSM offers a number of options, which include documenting on the wiki, discussing in the forum, writing blog posts, joining the OpenStreetMap Foundation… one of the features that has been understudied are tagging proposals.\nAfter a lot of time to get data that we could use, we created a prototype of a visualisation that brings insights about the process:"
+  },
+  {
+    "objectID": "posts/2026-state-of-the-map/index.html",
+    "href": "posts/2026-state-of-the-map/index.html",
+    "title": "We’re presenting at State of the Map 2026: Whose Knowledge Counts?",
+    "section": "",
+    "text": "We are delighted to announce that our project will be presented at State of the Map 2026, the annual conference of the OpenStreetMap community, taking place in Paris, France, on 27–31 August 2026.\nCarlos Cámara-Menoyo will give the talk “Whose Knowledge Counts? Analysing Diversity and Exclusion in OpenStreetMap’s Tagging Proposals Process” on 27 August 2026."
+  },
+  {
+    "objectID": "posts/2026-state-of-the-map/index.html#abstract",
+    "href": "posts/2026-state-of-the-map/index.html#abstract",
+    "title": "We’re presenting at State of the Map 2026: Whose Knowledge Counts?",
+    "section": "Abstract",
+    "text": "Abstract\nThis talk analyses how gender inequality shapes OpenStreetMap’s (OSM) tagging proposal process, revealing that diversity gaps intensify at higher participation levels. Maps are never neutral — their makers’ demographics determine whose realities are represented or silenced.\nSystematically analysing every tagging proposal and vote since its creation using a purpose-built R package, we found that 59 prolific, mostly European and North American male users dominate proposal approval, while feminised proposals are underrepresented and disproportionately opposed. These findings confirm that structural inequities persist regardless of how well-designed, flexible and well-intended technologies may be."
+  },
+  {
+    "objectID": "posts/2026-state-of-the-map/index.html#come-and-say-hi",
+    "href": "posts/2026-state-of-the-map/index.html#come-and-say-hi",
+    "title": "We’re presenting at State of the Map 2026: Whose Knowledge Counts?",
+    "section": "Come and say hi",
+    "text": "Come and say hi\nIf you are attending State of the Map 2026, come along to the talk — we would love to hear your thoughts and experiences on equity and participation in OSM. More details are available on the conference website and the talk’s page."
+  },
+  {
+    "objectID": "posts/2026-state-of-the-map/index.html#slides",
+    "href": "posts/2026-state-of-the-map/index.html#slides",
+    "title": "We’re presenting at State of the Map 2026: Whose Knowledge Counts?",
+    "section": "Slides",
+    "text": "Slides\nView slides at Zenodo:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation",
+    "section": "",
+    "text": "This project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap [OSM]."
+  },
+  {
+    "objectID": "index.html#latest-blog-posts",
+    "href": "index.html#latest-blog-posts",
+    "title": "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation",
+    "section": "Latest blog posts",
+    "text": "Latest blog posts\n\n\n\n\n\n\n\n\nWe’re presenting at State of the Map 2026: Whose Knowledge Counts?\n\n\nWe will be at State of the Map 2026 in Paris to present our analysis of diversity and exclusion in OpenStreetMap’s tagging proposals process.\n\n\n\nCarlos Cámara-Menoyo\n\n\nJul 17, 2026\n\n\n\n\n\n\n\n\n\n\n\nInclusive Cartographies Series: Design Briefs\n\n\n\n\n\n\nCarlos Cámara-Menoyo, Timothy Monteath, Dana McCutcheon\n\n\nOct 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nOSM Dashboard: Visualising group contributions to OSM\n\n\nThe goal of OSMdashboard is help to understand how different groups of users contribute to OpenStreetMap (OSM). It does so by creating interactive dashboards that surface…\n\n\n\nCarlos Cámara-Menoyo\n\n\nSep 24, 2025\n\n\n\n\n\n\n\n\n\n\n\nInclusive Cartographies Series: Warwick\n\n\n\n\n\n\nCarlos Cámara-Menoyo, Timothy Monteath, Dana McCutcheon\n\n\nJul 4, 2025\n\n\n\n\n\n\n\n\n\n\n\nCo-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly\n\n\nOur talk at STS Italia 2025 in Milan, presenting the participatory codesign process at the heart of this project and some preliminary results.\n\n\n\nCarlos Cámara-Menoyo\n\n\nJun 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaps, world-views and neutrality: squaring the circle?\n\n\nOur talk at Pint of Science Coventry 2025 on how maps shape the world — and whether OpenStreetMap can really be neutral.\n\n\n\nCarlos Cámara-Menoyo, Timothy Monteath\n\n\nMay 19, 2025\n\n\n\n\n\n\n\n\n\n\n\nCodesign meeting: Visualising tagging proposals\n\n\nPrototyping visualisations.\n\n\n\nCarlos Cámara\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCodesign meeting 3: Visualising OSM’s demographics\n\n\nOne of the first things that stood out during the codesign process with Geochicas was how important it would be to have demographic statistics about OSM’s userbase.\n\n\n\nCarlos Cámara\n\n\nFeb 24, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#funding",
+    "href": "index.html#funding",
+    "title": "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation",
+    "section": "Funding",
+    "text": "Funding\nThis project is funded by the ESRC Digital Good Network through their Digital Good Research Fund 2024-25."
   },
   {
     "objectID": "slides/2026-08-27_sotm/index.html#about-me",
@@ -224,6 +238,55 @@
     "text": "About voting patterns\n\n\n\nFeminised features’ median of votes is the lowest: in line with prior research flagging how they receive less attention. But..\n\nThe distribution of votes is more sparse than any other group: more heterogeneous, and in cases, receiving more votes than their counterparts.\n\n\n\n\nFeminised proposals receive less approval votes, but also less opposing votes than any of the other categories.\nProposals not reaching the voting threshold (8 positive votes) are minority but notably different: 9 feminised proposals (5.9% of the category) vs 10 masculinised (2.2%)"
   },
   {
+    "objectID": "posts/2025-02-24-user_stats/index.html",
+    "href": "posts/2025-02-24-user_stats/index.html",
+    "title": "Codesign meeting 3: Visualising OSM’s demographics",
+    "section": "",
+    "text": "In previous stages of the codesign process with Geochicas, we tried to map actors and projects in OSM. During the meeting we were pointed to interesting resources faced some challenges:\nIn this meeting we took a different path and focused on OSM’s demographics. This is not a straighforward task, as there are mutliple issues that need to be addressed:\nTo address that, we explored a computational approach consisting of automatically extracting all the structured data that users have self-reported about themselves.\nFindings reveal an enormous bias, albeit with some caveats due to lack of representativity of the data."
+  },
+  {
+    "objectID": "posts/2025-02-24-user_stats/index.html#slides",
+    "href": "posts/2025-02-24-user_stats/index.html#slides",
+    "title": "Codesign meeting 3: Visualising OSM’s demographics",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/2025-05-19-pint-of-science/index.html",
+    "href": "posts/2025-05-19-pint-of-science/index.html",
+    "title": "Maps, world-views and neutrality: squaring the circle?",
+    "section": "",
+    "text": "On 19 May 2025, Carlos Cámara-Menoyo and Timothy Monteath presented our project at Pint of Science Coventry 2025, as part of the session “World in motion: understanding the dynamics behind maps and fluids” held at The Dirty Duck pub in Coventry."
+  },
+  {
+    "objectID": "posts/2025-05-19-pint-of-science/index.html#about-the-talk",
+    "href": "posts/2025-05-19-pint-of-science/index.html#about-the-talk",
+    "title": "Maps, world-views and neutrality: squaring the circle?",
+    "section": "About the talk",
+    "text": "About the talk\nMap-making is a serious business. There’s a science devoted to it, and only highly specialised companies and organisations can endeavour to translate every feature on Earth into a feature on a map with the right size and location. But that’s what makes maps reliable, too. So much so that, besides being part of our everyday lives, scientists use them to assess the effects of drought and deforestation, identify migration patterns or make predictions, amongst others.\nAnd yet, all maps are wrong. All of them make assumptions about how the world is or should be, and in so doing, maps have particular built-in world views and become political. They define what is included and what is not, what can and can’t be done with them, and the stories that they convey. In other words: maps shape the world as much as they are shaped by it.\nIn this talk, we explained how maps are made in order to understand how they have been used to exert power — and how they are still doing so. We then focused on OpenStreetMap, a collective effort to “map the world as it is”, and how it is succeeding or failing to do so in an equitable way."
+  },
+  {
+    "objectID": "posts/2025-05-19-pint-of-science/index.html#slides",
+    "href": "posts/2025-05-19-pint-of-science/index.html#slides",
+    "title": "Maps, world-views and neutrality: squaring the circle?",
+    "section": "Slides",
+    "text": "Slides\n\nOpen the slides in full screen"
+  },
+  {
+    "objectID": "posts/2025-09-24-osm-dashboard/index.html",
+    "href": "posts/2025-09-24-osm-dashboard/index.html",
+    "title": "OSM Dashboard: Visualising group contributions to OSM",
+    "section": "",
+    "text": "Another topic that arose from the codesign meetings was how different demographics favour specific ways of contributing to OpenStreetMap and, on the other hand, about the hidden hierarchies of contribution types, where contributing to the map is seen as the most important way of contributing to it.\nThe combination of this, plus the lack of statistics on demographics that covered in previous meetings, led us to design a visualisation tool called OSM Dasbhoard.\nThe goal of OSMdashboard is help to understand how different groups of users contribute to OpenStreetMap (OSM). It does so by creating interactive dashboards that visualise OSM-data locally and anonymously, just by filling a csv file. In this context, a group is any collection of users who have something in common, such an interest, a membership or a demographic. Because all happens locally and information is aggregated, this allows for visualising protected caracersitics, such as ethnicity, gender, sexual orientation… without exposing particular individuals.\nAnother important feature is that this project follows Catherine d’Ignazio and Lauren F. Klein’s data feminism design principles (D’Ignazio and Bhargava 2020) (see dedicated vignette(\"articles/feminist-design-principles\")) and the visualisations produced may be useful for anyone interested in better understanding EDI considerations and the dynamics within OpenStreetMap community, including researchers, project managers, and community organizers.\nThe package is the first collaborative output of the project and is still in early stages of definition, but is already available for anyone to use it."
+  },
+  {
+    "objectID": "posts/2025-09-24-osm-dashboard/index.html#examples",
+    "href": "posts/2025-09-24-osm-dashboard/index.html#examples",
+    "title": "OSM Dashboard: Visualising group contributions to OSM",
+    "section": "Examples",
+    "text": "Examples\nThe following interactive dashboards have been created to showcase the capabilities of the package and the methodological innovations that they enable.\n\nGeochicas members\nThis dashboard displays how some members of Geochicas who have voluntarily opted-in contribute to OSM. This is particularly interesting considering that all members are known to be women, so it serves as a good proxy for gendered contributions:\n\n\n\n\n\nCollaborative mapping members\nCollaborative mapping is a small association of map enthusiasts and long-time OSM contributors from Spain. This shows how their members (who all have agreed to participate) contribute to OSM. The relevance of this group is twofold: first because it serves as a control group (I happen to be a member of the group and I am able to explain and understand the result), and second, because members are all-male and have a long experience contributing to OSM:\n\n\n\n\n\nWomen advocates\nThis group aggregates every user who has reported to be a women_advocate on their wiki profiles:"
+  },
+  {
     "objectID": "posts/2025-07-04-icw-warwick/2025-07-04-icw-warwick.html",
     "href": "posts/2025-07-04-icw-warwick/2025-07-04-icw-warwick.html",
     "title": "Inclusive Cartographies Series: Warwick",
@@ -278,69 +341,6 @@
     "title": "Inclusive Cartographies Series: Warwick",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nFor more information, check out Caroline Criado Pérez’s blog post about this.↩︎"
-  },
-  {
-    "objectID": "posts/2025-06-11-sts-italia/index.html",
-    "href": "posts/2025-06-11-sts-italia/index.html",
-    "title": "Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly",
-    "section": "",
-    "text": "On 11 June 2025, Carlos Cámara-Menoyo presented our project at STS Italia 2025 in Milan. The talk presented the implementation of a participatory codesign process to surface how neutrality is operationalised in OpenStreetMap (OSM), as well as some preliminary results about how it is succeeding or failing to foster equity and inclusion."
-  },
-  {
-    "objectID": "posts/2025-06-11-sts-italia/index.html#about-the-talk",
-    "href": "posts/2025-06-11-sts-italia/index.html#about-the-talk",
-    "title": "Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly",
-    "section": "About the talk",
-    "text": "About the talk\nOSM is the largest and most successful collaborative map of the world. Like Wikipedia, it is based on principles of participation, openness, and neutrality to “map the world as it exists”. To that end, more than 10 million volunteers from different geographies and backgrounds contribute their local knowledge to add new map features or improve existing ones. Its data, covering the entire globe, is so exhaustive and precise that it complements official data sources and populates thousands of tools and popular services. Moreover, the UN-backed Digital Public Good Alliance recognised OSM as a global Digital Public Good in February 2024.\nEnquiring about the world-views embedded in such a crucial project, and its mechanisms to avoid inequities against vulnerable communities, is critical to understanding the values that it produces and reproduces. This is especially relevant in the case of OSM for two reasons. First, because maps shape reality as much as they are shaped by it — for example by influencing the perception of the world, exerting political power and control, or affecting mobility, accessibility and consumption patterns. Second, because OSM’s community is estimated to be highly biased towards specific and hegemonic demographics, where white men from Europe and the US are overrepresented.\nOur interdisciplinary research draws from critical geography and feminism to investigate how neutrality can be applied to either support or hinder equity. To achieve this, we are teaming up with Geochicas, a community-led organization from Latin America whose mission is to close the gender gap in the OSM community. Together, we are implementing a transformative participatory process aimed at co-designing data visualizations.\nFor us, data visualizations are not just an output to communicate findings, but a research method used to mediate and provoke ideas, discussions, and reactions that arise from thinking with and about data and its representation. Conversely, we understand participation and co-design as a way to consider the particularities of data, tasks, users, contexts of use and world-views of the participants — a condition for creating visualizations that are actually capable of being transformative.\nThe resulting visualizations will be different insofar as they will be based on lived experiences and informed by feminist principles. As a result, they will be better suited to assess how minoritized demographics — such as gender, ethnicity, and sexual orientation — are involved, recognized, or excluded in data production and decision-making within OSM, while also empowering our participants.\nWe expect our findings to be returned to OSM and to inform potential transformations in OSM’s governance, database, and representation guided by equity principles. More broadly, we expect the findings to be adapted to other cases of digital goods and initiate similar transformations."
-  },
-  {
-    "objectID": "posts/2025-06-11-sts-italia/index.html#slides",
-    "href": "posts/2025-06-11-sts-italia/index.html#slides",
-    "title": "Co-designing participatory data visualizations to evaluate OpenStreetMap’s equity: The Good, The Neutral and The Ugly",
-    "section": "Slides",
-    "text": "Slides\nThe slides from the talk are available as a PDF.\n&lt;object class=\"pdf\" data=\"https://carloscamara.es/en/events/2025-06-11-sts-italia/ccamara_2025-06-11_STS%20Italia.pdf\" width=\"100%\" height=\"500\"&gt;&lt;/object&gt;"
-  },
-  {
-    "objectID": "posts/2026-state-of-the-map/index.html",
-    "href": "posts/2026-state-of-the-map/index.html",
-    "title": "We’re presenting at State of the Map 2026: Whose Knowledge Counts?",
-    "section": "",
-    "text": "We are delighted to announce that our project will be presented at State of the Map 2026, the annual conference of the OpenStreetMap community, taking place in Paris, France, on 27–31 August 2026.\nCarlos Cámara-Menoyo will give the talk “Whose Knowledge Counts? Analysing Diversity and Exclusion in OpenStreetMap’s Tagging Proposals Process” on 27 August 2026."
-  },
-  {
-    "objectID": "posts/2026-state-of-the-map/index.html#abstract",
-    "href": "posts/2026-state-of-the-map/index.html#abstract",
-    "title": "We’re presenting at State of the Map 2026: Whose Knowledge Counts?",
-    "section": "Abstract",
-    "text": "Abstract\nThis talk analyses how gender inequality shapes OpenStreetMap’s (OSM) tagging proposal process, revealing that diversity gaps intensify at higher participation levels. Maps are never neutral — their makers’ demographics determine whose realities are represented or silenced.\nSystematically analysing every tagging proposal and vote since its creation using a purpose-built R package, we found that 59 prolific, mostly European and North American male users dominate proposal approval, while feminised proposals are underrepresented and disproportionately opposed. These findings confirm that structural inequities persist regardless of how well-designed, flexible and well-intended technologies may be."
-  },
-  {
-    "objectID": "posts/2026-state-of-the-map/index.html#come-and-say-hi",
-    "href": "posts/2026-state-of-the-map/index.html#come-and-say-hi",
-    "title": "We’re presenting at State of the Map 2026: Whose Knowledge Counts?",
-    "section": "Come and say hi",
-    "text": "Come and say hi\nIf you are attending State of the Map 2026, come along to the talk — we would love to hear your thoughts and experiences on equity and participation in OSM. More details are available on the conference website and the talk’s page."
-  },
-  {
-    "objectID": "posts/2026-state-of-the-map/index.html#slides",
-    "href": "posts/2026-state-of-the-map/index.html#slides",
-    "title": "We’re presenting at State of the Map 2026: Whose Knowledge Counts?",
-    "section": "Slides",
-    "text": "Slides\nView slides at Zenodo:"
-  },
-  {
-    "objectID": "posts/2025-09-24-osm-dashboard/index.html",
-    "href": "posts/2025-09-24-osm-dashboard/index.html",
-    "title": "OSM Dashboard: Visualising group contributions to OSM",
-    "section": "",
-    "text": "Another topic that arose from the codesign meetings was how different demographics favour specific ways of contributing to OpenStreetMap and, on the other hand, about the hidden hierarchies of contribution types, where contributing to the map is seen as the most important way of contributing to it.\nThe combination of this, plus the lack of statistics on demographics that covered in previous meetings, led us to design a visualisation tool called OSM Dasbhoard.\nThe goal of OSMdashboard is help to understand how different groups of users contribute to OpenStreetMap (OSM). It does so by creating interactive dashboards that visualise OSM-data locally and anonymously, just by filling a csv file. In this context, a group is any collection of users who have something in common, such an interest, a membership or a demographic. Because all happens locally and information is aggregated, this allows for visualising protected caracersitics, such as ethnicity, gender, sexual orientation… without exposing particular individuals.\nAnother important feature is that this project follows Catherine d’Ignazio and Lauren F. Klein’s data feminism design principles (D’Ignazio and Bhargava 2020) (see dedicated vignette(\"articles/feminist-design-principles\")) and the visualisations produced may be useful for anyone interested in better understanding EDI considerations and the dynamics within OpenStreetMap community, including researchers, project managers, and community organizers.\nThe package is the first collaborative output of the project and is still in early stages of definition, but is already available for anyone to use it."
-  },
-  {
-    "objectID": "posts/2025-09-24-osm-dashboard/index.html#examples",
-    "href": "posts/2025-09-24-osm-dashboard/index.html#examples",
-    "title": "OSM Dashboard: Visualising group contributions to OSM",
-    "section": "Examples",
-    "text": "Examples\nThe following interactive dashboards have been created to showcase the capabilities of the package and the methodological innovations that they enable.\n\nGeochicas members\nThis dashboard displays how some members of Geochicas who have voluntarily opted-in contribute to OSM. This is particularly interesting considering that all members are known to be women, so it serves as a good proxy for gendered contributions:\n\n\n\n\n\nCollaborative mapping members\nCollaborative mapping is a small association of map enthusiasts and long-time OSM contributors from Spain. This shows how their members (who all have agreed to participate) contribute to OSM. The relevance of this group is twofold: first because it serves as a control group (I happen to be a member of the group and I am able to explain and understand the result), and second, because members are all-male and have a long experience contributing to OSM:\n\n\n\n\n\nWomen advocates\nThis group aggregates every user who has reported to be a women_advocate on their wiki profiles:"
   },
   {
     "objectID": "blog.html",
