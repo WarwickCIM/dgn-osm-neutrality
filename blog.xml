@@ -170,6 +170,33 @@ D’Ignazio, Catherine, and Rahul Bhargava. 2020. <em>Data Visualization Literac
   <media:content url="https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-09-24-osm-dashboard/dashboard_demo.png" medium="image" type="image/png" height="87" width="144"/>
 </item>
 <item>
+  <title>Cartographic style prototype: London at Nig</title>
+  <dc:creator>Carlos Cámara</dc:creator>
+  <link>https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-08-30_lodon-night/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Following our Inclusive Cartographies workshop series, we created a fist prototype that builds on some of the use cases discussed with the participants.</p>
+<p>In this case, we chose the topic of safety (particularly at night) that many female participants were concerned about, focusing only on how to represent those streets that are lighted at night, based on data that is already available in OpenStreetMap, albeit not being displayed by default:</p>
+<div class="column-page">
+<iframe class="embed" src="https://api.maptiler.com/maps/019a2048-f588-75e3-8312-edf767ad9928/?key=acrAOz116Oqdy8diC8ou#14.31/51.50975/-0.11547" height="900"></iframe>
+</div>
+<p>This prototype was created using Mapzen, and is only displaying features from OpenStreetMap only. Given that the tags used for lights need to be manually queried and exported, the prototype only covers a relatively small area of London. Ideally, we’d like to make use of OpenStreetMap vector styles and be able to always display the last version of data in every part of the world.</p>
+
+
+
+ ]]></description>
+  <category>datavis</category>
+  <category>codesign</category>
+  <category>output</category>
+  <guid>https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-08-30_lodon-night/</guid>
+  <pubDate>Sat, 30 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-08-30_lodon-night/london-night.png" medium="image" type="image/png" height="107" width="144"/>
+</item>
+<item>
   <title>Inclusive Cartographies Series: Warwick</title>
   <dc:creator>Carlos Cámara-Menoyo</dc:creator>
   <dc:creator>Timothy Monteath</dc:creator>
