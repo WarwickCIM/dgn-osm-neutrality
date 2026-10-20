@@ -1,0 +1,23 @@
+---
+title: "Codesign meeting: Visualising tagging proposals"
+description: "Prototyping visualisations."
+author: 
+  - name: "Carlos Cámara"
+    orcid: 0000-0002-9378-0549
+    email: carlos.camara@warwick.ac.uk
+    affiliations:
+    - name: University of Warwick
+      address: Centre for Interdisciplinary Methodologies (CIM), Social Sciences Building
+      city: Coventry
+      state: WA
+      postal-code: CV4 7AL
+date: "2025-04-1"
+categories: [datavis, codesign]
+
+---
+
+In this meeting it was flagged how besides the most obvious form of contributing to OpenStreetMap by adding and editing map features, OSM offers a number of options, which include documenting on the wiki, discussing in the forum, writing blog posts, joining the OpenStreetMap Foundation... one of the features that has been understudied are tagging proposals.
+
+After a lot of time to get data that we could use, we created a prototype of a visualisation that brings insights about the process:
+
+![](images/paste-3.png)

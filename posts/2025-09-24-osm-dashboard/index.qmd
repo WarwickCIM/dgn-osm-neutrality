@@ -12,7 +12,7 @@ author:
       state: WA
       postal-code: CV4 7AL
 date: "2025-09-24"
-categories: [datavis, codesign, software]
+categories: [datavis, codesign, software, outputs]
 bibliography: references.bib
 resources:
   - "dashboards/geochicas_dashboard.html"
