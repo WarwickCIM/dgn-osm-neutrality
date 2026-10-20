@@ -1,0 +1,71 @@
+---
+title: "OSM Dashboard: Visualising group contributions to OSM"
+description: "The goal of OSMdashboard is help to understand how different groups of users contribute to OpenStreetMap (OSM). It does so by creating interactive dashboards that surface different contribution types and metrics."
+author: 
+  - name: "Carlos Cámara-Menoyo"
+    orcid: 0000-0002-9378-0549
+    email: carlos.camara@warwick.ac.uk
+    affiliations:
+    - name: University of Warwick
+      address: Centre for Interdisciplinary Methodologies (CIM), Social Sciences Building
+      city: Coventry
+      state: WA
+      postal-code: CV4 7AL
+date: "2025-09-24"
+categories: [datavis, codesign, software]
+bibliography: references.bib
+resources:
+  - "dashboards/geochicas_dashboard.html"
+  - "dashboards/mapcolabora_dashboard.html"
+  - "dashboards/women_advocates_dashboard.html"
+image: dashboard_demo.png
+---
+
+Another topic that arose from the codesign meetings was how different demographics favour specific ways of contributing to OpenStreetMap and, on the other hand, about the hidden hierarchies of contribution types, where contributing to the map is seen as the most important way of contributing to it.
+
+The combination of this, plus the [lack of statistics on demographics that covered in previous meetings](posts/2025-02-24-user_stats), led us to design a visualisation tool called [OSM Dasbhoard](https://warwickcim.github.io/OSMdashboard/index.html).
+
+The goal of OSMdashboard is help to understand how different groups of users contribute to OpenStreetMap (OSM). It does so by creating interactive dashboards that visualise OSM-data locally and anonymously, just by filling a `csv` file. In this context, a group is any collection of users who have something in common, such an interest, a membership or a demographic. Because all happens locally and information is aggregated, this allows for visualising protected caracersitics, such as ethnicity, gender, sexual orientation... without exposing particular individuals.
+
+Another important feature is that this project follows Catherine d’Ignazio and Lauren F. Klein’s data feminism design principles [@dignazio2020] (see dedicated [`vignette("articles/feminist-design-principles")`](https://warwickcim.github.io/OSMdashboard/articles/feminist-design-principles.html)) and the visualisations produced may be useful for anyone interested in better understanding EDI considerations and the dynamics within OpenStreetMap community, including researchers, project managers, and community organizers.
+
+The package is the first collaborative output of the project and is still in early stages of definition, but is already available for anyone to use it.
+
+## Examples
+
+The following interactive dashboards have been created to showcase the capabilities of the package and the methodological innovations that they enable.
+
+### Geochicas members
+
+This dashboard displays how some members of Geochicas who have voluntarily opted-in contribute to OSM. This is particularly interesting considering that all members are known to be women, so it serves as a good proxy for gendered contributions:
+
+:::{.column-screen-inset}
+
+```{=html}
+<iframe class="embed" src="dashboards/geochicas_dashboard.html" height="900"></iframe>
+```
+:::
+
+### Collaborative mapping members
+
+[Collaborative mapping](https://mapcolabora.org) is a small association of map enthusiasts and long-time OSM contributors from Spain. This shows how their members (who all have agreed to participate) contribute to OSM. The relevance of this group is twofold: first because it serves as a control group (I happen to be a member of the group and I am able to explain and understand the result), and second, because members are all-male and have a long experience contributing to OSM:
+
+:::{.column-screen-inset}
+```{=html}
+<iframe class="embed" src="dashboards/mapcolabora_dashboard.html" height="900"></iframe>
+```
+:::
+
+### Women advocates
+
+This group aggregates every user who has reported to be a women_advocate on their wiki profiles:
+
+:::{.column-screen-inset}
+
+```{=html}
+<iframe class="embed" src="dashboards/women_advocates_dashboard.html" height="900"></iframe>
+```
+
+:::
+
+## References
