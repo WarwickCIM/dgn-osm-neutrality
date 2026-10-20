@@ -1,1 +1,12 @@
 /* css styles */
+
+.big-text {
+    font-size: 1.6rem;
+}
+
+/*-- Embedding slides in post --*/
+.slide-deck {
+    border: 3px solid #dee2e6;
+    width: 100%;
+    height: 475px;
+}

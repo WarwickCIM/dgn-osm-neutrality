@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://warwickcim.github.io/dgn-osm-neutrality/index.html</loc>
-    <lastmod>2026-10-20T08:04:50.994Z</lastmod>
-  </url>
-  <url>
     <loc>https://warwickcim.github.io/dgn-osm-neutrality/about.html</loc>
-    <lastmod>2026-10-20T08:04:50.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-state-of-the-map/index.html</loc>
-    <lastmod>2026-10-20T08:04:51.063Z</lastmod>
-  </url>
-  <url>
-    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-06-11-sts-italia/index.html</loc>
-    <lastmod>2026-10-20T08:04:50.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://warwickcim.github.io/dgn-osm-neutrality/slides/2026-08-27_sotm/index.html</loc>
-    <lastmod>2026-10-20T08:04:51.065Z</lastmod>
+    <lastmod>2026-10-20T08:44:02.856Z</lastmod>
   </url>
   <url>
     <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-10-31-icw-design-briefs/2025-10-31-icw-design-briefs.html</loc>
-    <lastmod>2026-10-20T08:04:51.054Z</lastmod>
+    <lastmod>2026-10-20T08:44:02.932Z</lastmod>
   </url>
   <url>
-    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/2025-07-04-icw-warwick.html</loc>
-    <lastmod>2026-10-20T08:04:50.996Z</lastmod>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-06-11-sts-italia/index.html</loc>
+    <lastmod>2026-10-20T08:44:02.861Z</lastmod>
+  </url>
+  <url>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2026-state-of-the-map/index.html</loc>
+    <lastmod>2026-10-20T08:44:02.944Z</lastmod>
+  </url>
+  <url>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/index.html</loc>
+    <lastmod>2026-10-20T08:44:02.856Z</lastmod>
+  </url>
+  <url>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/slides/2026-08-27_sotm/index.html</loc>
+    <lastmod>2026-10-20T08:44:02.946Z</lastmod>
+  </url>
+  <url>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-02-24-user_stats/index.html</loc>
+    <lastmod>2026-10-20T08:44:02.859Z</lastmod>
   </url>
   <url>
     <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-05-19-pint-of-science/index.html</loc>
-    <lastmod>2026-10-20T08:04:50.996Z</lastmod>
+    <lastmod>2026-10-20T08:44:02.860Z</lastmod>
+  </url>
+  <url>
+    <loc>https://warwickcim.github.io/dgn-osm-neutrality/posts/2025-07-04-icw-warwick/2025-07-04-icw-warwick.html</loc>
+    <lastmod>2026-10-20T08:44:02.861Z</lastmod>
   </url>
   <url>
     <loc>https://warwickcim.github.io/dgn-osm-neutrality/blog.html</loc>
-    <lastmod>2026-10-20T08:04:50.993Z</lastmod>
+    <lastmod>2026-10-20T08:44:02.856Z</lastmod>
   </url>
 </urlset>
