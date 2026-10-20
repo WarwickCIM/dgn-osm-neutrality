@@ -1,5 +1,5 @@
 ---
-title: "Cartographic style prototype: London at Nig"
+title: "Cartographic style prototype: London at Night"
 description: "Following our inclusive cartographies' workshop series, we created a first prototype."
 author: 
   - name: "Carlos Cámara"
