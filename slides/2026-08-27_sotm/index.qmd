@@ -204,7 +204,7 @@ Dialogues with prior scholarly on gendered uses of space and contributions to OS
 
 Previous research on OSM Contributions focuses on **map contributions (i.e. changesets) only**, a particular type of contributing.
 
-We will be [embracing pluralism by ]{.highlight-text} **focusing on every tagging proposal being documented since** `r lubridate::year(min(proposals$date_of_page_creation, na.rm = TRUE))`:
+We will be [embracing pluralism by]{.highlight-text} **focusing on every tagging proposal being documented since** `r lubridate::year(min(proposals$date_of_page_creation, na.rm = TRUE))`:
 
 1.  Different type of contribution
     1.  may yield different results (e.g. may be favoured by different type of contributors)
