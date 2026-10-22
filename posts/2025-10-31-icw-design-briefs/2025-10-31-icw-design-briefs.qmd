@@ -18,11 +18,7 @@ Two workshops in the Inclusive Cartography Series were run in October with a foc
 
 Thanks to Jina Lee, Mike Duggan and Barbara Brayshay from LivingMaps for discussing the aim and process of designing innovative, inclusive maps in our in-person workshop on 18 October. The slides from their talk are below:
 
-
-```{=html}
 <embed src="LivingMaps-Slides.pdf" width="100%" height="500px" />
-
-```
 
 ## From Maps to Briefs
 
@@ -47,6 +43,12 @@ Two examples of briefs produced are below:
 ## Evaluations
 
 At the end of the workshops, participants were asked to submit a survey on their reflections and experiences.
+
+![](Workshop-Impressions.png)
+
+![](Impacts.png)
+
+![](Maps.png)
 
 ## Slides
 
