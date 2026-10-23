@@ -26,10 +26,7 @@ The session started with a presentation on **maps, gender and feminist mapping**
 
 Next, Carlos Cámara gave us an **introduction to OSM**:
 
-```{=html}
 <embed src="OSM-slides.pdf" width="100%" height="500px" />
-
-```
 
 Following these initial talks, there was a discussion about **cartography and inclusivity**, using a set of ‘personas’ as a starting point. For instance, for the persona of Hans Moleman...
 
@@ -45,15 +42,15 @@ The personas provided were then used as a jumping-off point for participants 'to
 
 After a coffee break, participants were asked to think about what current maps might be missing, particularly with regard to facilitating activities that groups such as women, elderly people, children, LGBT+ people and racialised minorities need to do. Each participant stuck on the wall a project template with a proposed:
 
-- Map title
+-   Map title
 
-- Problem for the map to address
+-   Problem for the map to address
 
-- Audience
+-   Audience
 
-- Drawing
+-   Drawing
 
-- Scale (e.g., city, region)
+-   Scale (e.g., city, region)
 
 ![](Public-City-Sketch.png)
 
@@ -69,11 +66,7 @@ Each group listed the data they wanted to visualise in their map and considered 
 
 Following an hour's lunch break, Tim Monteath gave a talk on how to use Maputnik, a tool for creating cartographies:
 
-
-```{=html}
 <embed src="Workshop-Maputnik.pdf" width="100%" height="500px" />
-
-```
 
 Participants then used Maputnik to create cartographies and share their progress.
 
