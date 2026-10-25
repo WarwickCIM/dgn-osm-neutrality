@@ -8,8 +8,8 @@ website:
   repo-url: https://github.com/WarwickCIM/dgn-osm-neutrality
   repo-actions: [edit, issue]
   navbar:
-    #logo: media/logo.png
-    #title: false # Uncomment if adding a logo
+    logo: media/draft_logo.png
+    title: false # Uncomment if adding a logo
     left:
       - href: index.qmd
         text: Home
@@ -32,5 +32,6 @@ format:
       - brand
     css: styles.css
     toc: true
-
+    mainfont: "Noto Sans"
+    
 editor: visual
